@@ -69,6 +69,8 @@ description + lien vers contenu github hébergé chez l'apprenant
 **présenté par Nadia, le mercredi 31 mai 2017**  
   
 description + lien vers contenu github hébergé chez l'apprenant  
+
+[Lien](https://github.com/nadiabena/Veilles-Technologiques/blob/master/google_assistant.odp)
   
 ### AngularJS 1.0  
 **présenté par Adrian, jeudi 1 juin 2017**  
