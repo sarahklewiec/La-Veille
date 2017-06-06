@@ -7,6 +7,7 @@ description + lien vers contenu github hébergé chez l'apprenant
 
 ### Java 
 **présenté par Nadia, le vendredi 12 mai 2017**
+[Lien](https://github.com/nadiabena/Veilles-Technologiques/blob/master/Java.pptx)
 
 description + lien vers contenu github hébergé chez l'apprenant
 
