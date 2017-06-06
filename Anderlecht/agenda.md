@@ -7,10 +7,10 @@ description + lien vers contenu github hébergé chez l'apprenant
 
 ### Java 
 **présenté par Nadia, le vendredi 12 mai 2017**
-[Lien](https://github.com/nadiabena/Veilles-Technologiques/blob/master/Java.pptx)
 
 description + lien vers contenu github hébergé chez l'apprenant
 
+[Lien](https://github.com/nadiabena/Veilles-Technologiques/blob/master/Java.pptx)
 ### Sublime Text et ses plug-ins
 
 **présenté par Adrian, le vendredi 12 mai 2017**
