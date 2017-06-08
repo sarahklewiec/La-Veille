@@ -11,5 +11,3 @@ Format à respecter:
 - Vendredi 16/06/2017, 'Le Sass', Ludovic Patho;
 - Lundi     26/06/2017    'I dont know yet!'
 - mercredi 28/06/2017, 'plat du jour' Habib El Maaza Gomez;
-
-
