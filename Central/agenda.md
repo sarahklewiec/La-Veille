@@ -10,8 +10,6 @@ Format à respecter:
 - vendredi 09/06/2017, "joomla", Nadia-Nachit  
 - Vendredi 16/06/2017, 'Le Sass', Ludovic Patho;
 - Lundi     26/06/2017    'I dont know yet!'
-- mardi 28/06/2017, 'thème à determiner', Habib El Maaza Gomez
-
-
+- mercredi 28/06/2017, 'plat du jour' Habib El Maaza Gomez;
 
 
