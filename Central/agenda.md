@@ -10,4 +10,4 @@ Format à respecter:
 - mercredi 07/06/2017, 'Google Analytics', Habib El Maaza Gomez
 - vendredi 09/06/2017, "joomla", Nadia-Nachit  
 
-- mardi 28/06/2017, 'thème à determiner', Habib El Maaza Gomez
+- mercredi 28/06/2017, 'thème à determiner', Habib El Maaza Gomez
