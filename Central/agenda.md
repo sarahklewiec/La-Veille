@@ -8,7 +8,7 @@ Format à respecter:
 - mardi 06/06/2017, "la reconnaissance vocale en JS", David V.
 - mercredi 07/06/2017, 'Google Analytics', Habib El Maaza Gomez
 - vendredi 09/06/2017, "joomla", Nadia-Nachit;
-- lundi 12/06/2017, "alize", geoffrey marique;
+- lundi 12/06/2017, "Alize", geoffrey marique;
 - Vendredi 16/06/2017, 'Le Sass', Ludovic Patho'
 - Lundi 26/06/2017, 	'I don't know'; Kreshnik
 - mercredi 28/06/2017, 'plat du jour' Habib El Maaza Gomez;
