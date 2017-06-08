@@ -10,5 +10,6 @@ Format à respecter:
 - vendredi 09/06/2017, "joomla", Nadia-Nachit;
 - lundi 12/06/2017, "Alize", geoffrey marique;
 - Vendredi 16/06/2017, 'Le Sass', Ludovic Patho'
+- Mercredi 21/06/2017, "JAVA",jimmy;
 - Lundi 26/06/2017, 	'I don't know'; Kreshnik
 - mercredi 28/06/2017, 'plat du jour' Habib El Maaza Gomez;
