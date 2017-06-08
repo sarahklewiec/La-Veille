@@ -9,7 +9,9 @@ Format à respecter:
 - mercredi 07/06/2017, 'Google Analytics', Habib El Maaza Gomez
 - vendredi 09/06/2017, "joomla", Nadia-Nachit  
 - Vendredi 16/06/2017, 'Le Sass', Ludovic Patho;
+- Lundi     26/06/2017    'I dont kno yet!'
 - mardi 28/06/2017, 'thème à determiner', Habib El Maaza Gomez
+
 
 
 
