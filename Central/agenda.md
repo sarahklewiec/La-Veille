@@ -15,3 +15,4 @@ Format à respecter:
 - Lundi 26/06/2017, 	'I don't know'; Kreshnik
 - Mardi 27/06/2017, '...' Daniela
 - mercredi 28/06/2017, 'plat du jour' Habib El Maaza Gomez;
+- jeudi 29/06/2017, "..." Dan Jansoone;
