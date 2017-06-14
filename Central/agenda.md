@@ -9,6 +9,7 @@ Format à respecter:
 - mercredi 07/06/2017, 'Google Analytics', Habib El Maaza Gomez
 - vendredi 09/06/2017, "Alize", geoffrey marique;
 - lundi 12/06/2017, "joomla", Nadia-Nachit;
+- mardi 13/06/2017, "fuse", Estelle
 - Vendredi 16/06/2017, 'Le Sass', Ludovic Patho'
 - Mercredi 21/06/2017, "JAVA",jimmy;
 - Vendredi 23/06/2017, " Still Unknown", Thomas ;
