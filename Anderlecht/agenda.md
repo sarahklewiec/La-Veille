@@ -10,11 +10,12 @@ description + lien vers contenu github hébergé chez l'apprenant
 
 description + lien vers contenu github hébergé chez l'apprenant
 
+[Lien](https://github.com/nadiabena/Veilles-Technologiques/blob/master/Java.pptx)
 ### Sublime Text et ses plug-ins
 
 **présenté par Adrian, le vendredi 12 mai 2017**
 
-[Explication et information sur Sublime Text 3 et les plug-ins qui existe](https://github.com/Zochowski/Sublime_text_3_and_Plugins)
+[Explication et information sur Sublime Text 3 et les plug-ins qui existe](https://zochowski.github.io/Becode/Veilles/Sublime_text_3_and_Plugins/)
 
 ## Veille semaine 02
 
@@ -49,10 +50,34 @@ description + lien vers contenu github hébergé chez l'apprenant
 
 ### Sujet
 **présenté par Victor, le mardi 23 mai 2017**
+   
+description + lien vers contenu github hébergé chez l'apprenant  
 
-description + lien vers contenu github hébergé chez l'apprenant
+### Sujet NodeJS
+**présenté par Gilles, le lundi 24 mai 2017**  
+  
+description + lien vers contenu github hébergé chez l'apprenant       
+    
+## Veille semaine 04  
+  
+### Github project et Balsamiq  
+**présenté par Michael, le mardi 30 mai 2017**  
 
-### Sujet
-**présenté par Gilles, le lundi 24 mai 2017**
+description + lien vers contenu github hébergé chez l'apprenant  
+  
+### Google Assistant  
+**présenté par Nadia, le mercredi 31 mai 2017**  
+  
+description + lien vers contenu github hébergé chez l'apprenant  
+
+[Lien](https://github.com/nadiabena/Veilles-Technologiques/blob/master/google_assistant.odp)
+  
+### AngularJS 1.0  
+**présenté par Adrian, jeudi 1 juin 2017**  
+  
+[Presentation AnguularJS 1.0](https://github.com/Zochowski/Becode/blob/master/Veilles/AngularJS_1.0/PowerPoint_Presentation.pdf)
+  
+### Sujet  
+**présenté par Gilles, vendredi 2 juin 2017**  
 
 description + lien vers contenu github hébergé chez l'apprenant
