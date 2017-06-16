@@ -14,7 +14,7 @@ Format à respecter:
 - Lundi 19/06/2017, ____________
 - Mardi 20/06/2017, ____________
 - Mercredi 21/06/2017, "JAVA",jimmy;
-- Jeudi 22/06/2017, Eric
+- Jeudi 22/06/2017, "..." Eric N.;
 - Vendredi 23/06/2017, " Still Unknown", Thomas ;
 - Lundi 26/06/2017, 	'I don't know'; Kreshnik
 - Mardi 27/06/2017, '...' Daniela
