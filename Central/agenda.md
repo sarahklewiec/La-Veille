@@ -11,7 +11,7 @@ Format à respecter:
 - lundi 12/06/2017, "joomla", Nadia-Nachit;
 - mardi 13/06/2017, "fuse", Estelle
 - Jeudi 15/06/2017, 'Le Sass', Ludovic Patho'
-- Lundi 19/06/2017, ____________
+- Lundi 19/06/2017,  'Learning Machine'
 - Mardi 20/06/2017, ____________
 - Mercredi 21/06/2017, "JAVA",jimmy;
 - Jeudi 22/06/2017, "..." Eric N.;
