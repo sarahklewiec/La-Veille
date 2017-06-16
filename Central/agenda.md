@@ -21,3 +21,4 @@ Format à respecter:
 - mercredi 28/06/2017, 'plat du jour' Habib El Maaza Gomez;
 - jeudi 29/06/2017, "..." Dan Jansoone;
 - Vendredi 30/06/2017, "A confirmer", "Salvatore Saia";
+- Jeudi 22/06/2017, Eric 
