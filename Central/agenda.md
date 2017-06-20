@@ -7,14 +7,24 @@ Format à respecter:
 - Mercredi 21/06/2017, "JAVA",jimmy
 - Jeudi 22/06/2017, "..." Eric N.
 - Vendredi 23/06/2017, " Still Unknown", Thomas 
+
 - Lundi 26/06/2017, 	'I don't know' Kreshnik
 - Mardi 27/06/2017, '...' Daniela
 - mercredi 28/06/2017, 'plat du jour' Habib El Maaza Gomez
 - jeudi 29/06/2017, "..." Dan Jansoone
 - Vendredi 30/06/2017, "A confirmer", "Salvatore Saia"
-- Lundi 02/07/2017, "A voir", "Gabriele Virga"
-- Mardi 03/07/2017, "A confirmer", "Jayce Kaje"
 
+- Lundi 03/07/2017, "A voir", "Gabriele Virga"
+- Mardi 04/07/2017, "A confirmer", "Jayce Kaje"
+- Mercredi 05/07/2017, , 
+- Jeudi 06/07/2017, , 
+- Vendredi 07/07/2017, , 
+
+- Lundi 10/07/2017, , 
+- Mardi 11/07/2017, , 
+- Mercredi 12/07/2017, , 
+- Jeudi 13/07/2017, , 
+- Vendredi 14/07/2017, , 
 
 
 ## Archive 
