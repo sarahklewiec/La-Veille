@@ -21,6 +21,6 @@ Format à respecter:
 - mercredi 28/06/2017, 'plat du jour' Habib El Maaza Gomez;
 - jeudi 29/06/2017, "..." Dan Jansoone;
 - Vendredi 30/06/2017, "A confirmer", "Salvatore Saia";
-- Lundi 02/07/2017, "A voir", Gabriele Virga
+- Lundi 02/07/2017, "A voir", "Gabriele Virga"
 - Mardi 03/07/2017, "A confirmer", "Jayce Kaje";
 
