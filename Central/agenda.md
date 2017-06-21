@@ -6,7 +6,7 @@ Format à respecter:
 
 - Mercredi 21/06/2017, "JAVA",jimmy
 - Jeudi 22/06/2017, "..." Eric N.
-- Vendredi 23/06/2017, " Still Unknown", Thomas 
+- Vendredi 23/06/2017, "Compte-rendu chambre du commerce - intro lancer son buisness", Thomas 
 - Lundi 26/06/2017, 	'I don't know' Kreshnik
 - Mardi 27/06/2017, '...' Daniela
 - mercredi 28/06/2017, 'plat du jour' Habib El Maaza Gomez
