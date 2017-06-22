@@ -4,8 +4,8 @@ Format à respecter:
 
 ## L'agenda des veilles à Central  
 
-- Mercredi 21/06/2017, "JAVA",jimmy
-- Jeudi 22/06/2017, "..." Eric N.
+- Mercredi 21/06/2017, "JAVA",jimmy [Reporté au 05/07/2017 ]
+- Jeudi 22/06/2017, "..." Eric N. [Reporté au 06/07/2017 ]
 - Vendredi 23/06/2017, "Compte-rendu chambre du commerce - intro lancer son buisness", Thomas 
 - Lundi 26/06/2017, 	'I don't know' Kreshnik
 - Mardi 27/06/2017, '...' Daniela
@@ -14,11 +14,11 @@ Format à respecter:
 - Vendredi 30/06/2017, "A confirmer", "Salvatore Saia"
 - Lundi 03/07/2017, "A voir", "Gabriele Virga"
 - Mardi 04/07/2017, "A confirmer", "Jayce Kaje"
-- Mercredi 05/07/2017, , 
-- Jeudi 06/07/2017, , 
-- Vendredi 07/07/2017, ,
-- Lundi 10/07/2017, , 
-- Mardi 11/07/2017, , 
+- Mercredi 05/07/2017,"JAVA + Eclipse " Jimmy 
+- Jeudi 06/07/2017,"..." Eric N. [Reporté au 06/07/2017 ] 
+- Vendredi 07/07/2017,Hugo ,
+- Lundi 10/07/2017,"A confirmer", "Jayce Kaje"[Recuperation du mercredi 14/06/2017] 
+- Mardi 11/07/2017, Khaled , 
 - Mercredi 12/07/2017, , 
 - Jeudi 13/07/2017, , 
 - Vendredi 14/07/2017, , 
