@@ -19,7 +19,7 @@ Format à respecter:
 - Vendredi 07/07/2017,Hugo ,
 - Lundi 10/07/2017,"A confirmer", "Jayce Kaje"[Recuperation du mercredi 14/06/2017] 
 - Mardi 11/07/2017, Khaled , 
-- Mercredi 12/07/2017, , 
+- Mercredi 12/07/2017, "GTmetrix", geoffrey
 - Jeudi 13/07/2017, , 
 - Vendredi 14/07/2017, , 
 
@@ -30,7 +30,7 @@ Format à respecter:
 - vendredi 02/06/2017, "Google Wemaster Tools", Salvatore Saia
 - mardi 06/06/2017, "la reconnaissance vocale en JS", David V.
 - mercredi 07/06/2017, 'Google Analytics', Habib El Maaza Gomez
-- vendredi 09/06/2017, "Alize", geoffrey marique
+- vendredi 09/06/2017, "alyze", geoffrey marique
 - lundi 12/06/2017, "joomla", Nadia-Nachit
 - mardi 13/06/2017, "fuse", Estelle
 - Jeudi 15/06/2017, 'Le Sass', Ludovic Patho'
