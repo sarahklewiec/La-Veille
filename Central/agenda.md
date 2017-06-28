@@ -21,7 +21,7 @@ Format à respecter:
 - Mardi 11/07/2017, Khaled , 
 - Mercredi 12/07/2017, "GTmetrix", geoffrey
 - Jeudi 13/07/2017, 'to be defined', David V 
-- Vendredi 14/07/2017, , 
+- Vendredi 14/07/2017, "A confirmer" , Santiago
 
 
 ## Archive 
