@@ -20,7 +20,7 @@ Format à respecter:
 - Lundi 10/07/2017,"A confirmer", "Jayce Kaje"[Recuperation du mercredi 14/06/2017] 
 - Mardi 11/07/2017, Khaled , 
 - Mercredi 12/07/2017, "GTmetrix", geoffrey
-- Jeudi 13/07/2017, 'to be defined', David V 
+- Jeudi 13/07/2017, 'HTTPS', David V 
 - Vendredi 14/07/2017, "A confirmer" , Santiago
 
 
