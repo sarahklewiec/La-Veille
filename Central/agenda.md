@@ -22,7 +22,10 @@ Format à respecter:
 - Mercredi 12/07/2017, "GTmetrix", geoffrey
 - Jeudi 13/07/2017, 'HTTPS', David V 
 - Vendredi 14/07/2017, "A confirmer" , Santiago
+- mercredi 16/08/2017, "la veille de la rentrée", NOBODY YET
+- jeudi 17/08/2017, "C'est encore loin pour trouver un sujet", Safia
 - Vendredi 18/08/2017, "A confirmer", Salvatore Saia;
+
 
 ## Archive 
 - Mardi 20/06/2017, ____________
