@@ -81,3 +81,10 @@ description + lien vers contenu github hébergé chez l'apprenant
 **présenté par Gilles, vendredi 2 juin 2017**  
 
 description + lien vers contenu github hébergé chez l'apprenant
+
+## Veille semaine 07
+
+### Programmer et coder avec des enfants  
+**présenté par Eric G., le lundi 19 juin 2017**  
+
+[Lien](https://github.com/ericgijssen/coder-avec-enfants) 
