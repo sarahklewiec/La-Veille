@@ -22,7 +22,7 @@ Format à respecter:
 - Mercredi 12/07/2017, "GTmetrix", geoffrey
 - Jeudi 13/07/2017, 'HTTPS', David V 
 - Vendredi 14/07/2017, "A confirmer" , Santiago
-
+- Vendredi 18/08/2017, "a confirmer", Salvatore Saia;
 
 ## Archive 
 - Mardi 20/06/2017, ____________
