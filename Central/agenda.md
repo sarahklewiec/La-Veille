@@ -13,7 +13,7 @@ Format à respecter:
 - jeudi 29/06/2017, "..." Dan Jansoone
 - Vendredi 30/06/2017, "A confirmer", "Salvatore Saia"
 - Lundi 03/07/2017, "A voir", "Gabriele Virga"
-- Mardi 04/07/2017, "A confirmer", "Jayce Kaje"
+- Mardi 04/07/2017, "A confirmer", "Jayce Kaje" => Remplacé par Thomas : PHP orienté Object
 - Mercredi 05/07/2017,"JAVA + Eclipse " Jimmy 
 - Jeudi 06/07/2017,"..." Eric N. [Reporté au 06/07/2017 ] 
 - Vendredi 07/07/2017,Hugo ,
