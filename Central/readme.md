@@ -49,4 +49,3 @@ Voici quelques suggestions:
 - [Christian Heilmann](https://twitter.com/codepo8)
 - [Teddy](https://twitter.com/teddykishi)
 - [Alexandre](https://twitter.com/pixeline)
-- [Emily](https://twitter.com/miloon)
