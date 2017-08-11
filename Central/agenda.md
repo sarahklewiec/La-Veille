@@ -4,7 +4,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Central  
 - Vendredi 14/07/2017, "A confirmer" , Santiago
-- mercredi 16/08/2017, "la veille de la rentrée", NOBODY YET
+- mercredi 16/08/2017, "Gulp ou webpack au choix", Ludovic Patho
 - jeudi 17/08/2017, "C'est encore loin pour trouver un sujet", Safia
 - Vendredi 18/08/2017, "A confirmer", Salvatore Saia;
 
