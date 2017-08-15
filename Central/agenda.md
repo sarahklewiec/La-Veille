@@ -7,6 +7,7 @@ Format à respecter:
 - mercredi 16/08/2017, "Gulp ou webpack au choix", Ludovic Patho
 - jeudi 17/08/2017, "Des trucs pour maitriser Google", Alexandre Plennevaux
 - Vendredi 18/08/2017, "A confirmer", Salvatore Saia;
+- Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
 
 
 ## Archive 
