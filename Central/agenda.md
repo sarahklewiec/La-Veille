@@ -40,3 +40,7 @@ Format à respecter:
 - Jeudi 13/07/2017, 'HTTPS', David V 
 
 - Lundi 28/08/2017, 'ECMAScript 6', David V
+
+
+
+- Lundi 01/09/2017, '-------', Santiago A.
