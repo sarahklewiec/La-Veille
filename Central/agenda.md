@@ -10,6 +10,7 @@ Format à respecter:
 - Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
 - Lundi 28/08/2017, " Angular 4", Jimmy.;
 - Lundi 04/09/2017, " Xamarin Forms", Jimmy;
+- Jeudi 07/09/2017, "React", Daniela
 
 
 ## Archive 
