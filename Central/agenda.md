@@ -8,6 +8,8 @@ Format à respecter:
 - jeudi 17/08/2017, "Des trucs pour maitriser Google", Alexandre Plennevaux
 - Vendredi 18/08/2017, "A confirmer", Salvatore Saia;
 - Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
+- Lundi 28/08/2017, " Angular 4", Jimmy.;
+- Lundi 04/09/2017, " Xamarin Forms", Jimmy;
 
 
 ## Archive 
