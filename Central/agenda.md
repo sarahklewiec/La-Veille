@@ -38,3 +38,5 @@ Format à respecter:
 - Mardi 11/07/2017, Khaled , 
 - Mercredi 12/07/2017, "GTmetrix", geoffrey
 - Jeudi 13/07/2017, 'HTTPS', David V 
+
+- Lundi 28/08/2017, 'ECMAScript 6', David V
