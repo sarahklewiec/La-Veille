@@ -19,7 +19,7 @@ Format à respecter:
 - Vendredi 07/07/2017,Hugo ,
 - Lundi 10/07/2017,"A confirmer", "Jayce Kaje"[Recuperation du mercredi 14/06/2017] 
 - Mardi 11/07/2017, Khaled , 
-- Mercredi 12/07/2017, "GTmetrix", geoffrey
+- Mercredi 12/07/2017, "GTmetrix", geoffrey marique
 - Jeudi 13/07/2017, , 
 - Vendredi 14/07/2017, , 
 
