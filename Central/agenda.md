@@ -41,9 +41,17 @@ Format à respecter:
 - Mardi 11/07/2017, Khaled , 
 - Mercredi 12/07/2017, "GTmetrix", geoffrey marique
 - Jeudi 13/07/2017, 'HTTPS', David V 
+- Vendredi 14/07/2017, "A confirmer" , Santiago
+- Vendredi 18/08/2017, "a confirmer", Salvatore Saia;
 
 - Lundi 28/08/2017, 'ECMAScript 6', David V
 
 
 
+
 - Lundi 01/09/2017, '-------', Santiago A.
+ 
+
+
+
+- Jeudi 07/09/2017, 'a confirmer' Salvatore
