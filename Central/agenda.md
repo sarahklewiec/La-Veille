@@ -45,7 +45,7 @@ Format à respecter:
 - Vendredi 18/08/2017, "a confirmer", Salvatore Saia;
 
 - Lundi 28/08/2017, 'ECMAScript 6', David V
-
+- Mardi 29/08/2017, 'Intro a Ruby - comparaison avec PHP. ' Thomas aKa Blutshy.
 
 
 
