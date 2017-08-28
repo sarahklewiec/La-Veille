@@ -12,6 +12,7 @@ Format à respecter:
 - Lundi 04/09/2017, '-------', Santiago A.
 - Jeudi 07/09/2017, "React", Daniela
 - Lundi 11/09/2017, " Angular 4", Jimmy.;
+- Jeudi 14/09/2017, 'a confirmer' Salvatore
 - Lundi 18/09/2017, " Xamarin Forms", Jimmy.;
 
 
