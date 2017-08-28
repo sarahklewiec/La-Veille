@@ -9,6 +9,7 @@ Format à respecter:
 - Vendredi 18/08/2017, "A confirmer", Salvatore Saia;
 - Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
 - Lundi 28/08/2017, " Angular 4", Jimmy.;
+- Mardi 29/08/2017, 'Intro a Ruby - comparaison avec PHP. ' Thomas aKa Blutshy.
 - Lundi 04/09/2017, " Xamarin Forms", Jimmy;
 - Jeudi 07/09/2017, "React", Daniela
 
@@ -45,7 +46,6 @@ Format à respecter:
 - Vendredi 18/08/2017, "a confirmer", Salvatore Saia;
 
 - Lundi 28/08/2017, 'ECMAScript 6', David V
-- Mardi 29/08/2017, 'Intro a Ruby - comparaison avec PHP. ' Thomas aKa Blutshy.
 
 
 
