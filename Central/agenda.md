@@ -10,7 +10,8 @@ Format à respecter:
 - Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
 - Lundi 28/08/2017, " Angular 4", Jimmy.;
 - Mardi 29/08/2017, 'Intro a Ruby - comparaison avec PHP. ' Thomas aKa Blutshy.
-- Lundi 04/09/2017, " Xamarin Forms", Jimmy;
+- Lundi 04/09/2017, " Xamarin Forms", Jimmy; ???????? change date please!!!!!
+- Lundi 04/09/2017, '-------', Santiago A.
 - Jeudi 07/09/2017, "React", Daniela
 
 
