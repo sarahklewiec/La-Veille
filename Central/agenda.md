@@ -2,30 +2,27 @@
 Format à respecter:   
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom
 
-## L'agenda des veilles à Central  
+## L'agenda des veilles à Central
+
 - Vendredi 14/07/2017, "A confirmer" , Santiago
 - mercredi 16/08/2017, "Gulp ou webpack au choix", Ludovic Patho
 - jeudi 17/08/2017, "Des trucs pour maitriser Google", Alexandre Plennevaux
 - Vendredi 18/08/2017, "A confirmer", Salvatore Saia;
-
 - Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
 - Mardi 29/08/2017, 'Intro a Ruby - comparaison avec PHP. ' Thomas aKa Blutshy.
 - Mercredi 30/08/2017, " ", ,
 - Jeudi 31/09/2017, " ", ,
 - Vendredi 1/09/2017, " ", ,
-
 - Lundi 04/09/2017, '-------', Santiago A.
 - Mardi 05/09/2017, " ", ,
 - Mercrdi 06/09/2017, " ", ,
 - Jeudi 07/09/2017, "React", Daniela
 - Vendredi 08/09/2017, "", ,
-
 - Lundi 11/09/2017, " Angular 4", Jimmy;
 - Mardi 12/09/2017, " ", ;
 - Mercredi 13/09/2017, " ", ;
 - Jeudi 14/09/2017, 'a confirmer' Salvatore
 - Vendredi 14/09/2017, " ",
-
 - Lundi 15/09/2017, " Xamarin Forms", Jimmy;
 - Mardi 16/09/2017, " ",
 - Mercredi 17/09/2017, " ",
