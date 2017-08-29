@@ -10,7 +10,7 @@ Format à respecter:
 - Vendredi 18/08/2017, "A confirmer", Salvatore Saia;
 - Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
 - Mardi 29/08/2017, 'Intro a Ruby - comparaison avec PHP. ' Thomas aKa Blutshy.
-- Mercredi 30/08/2017, " ", ,
+- Mercredi 30/08/2017, "Webpack", Ludovic Patho ,
 - Jeudi 31/09/2017, " ", ,
 - Vendredi 1/09/2017, " ", ,
 - Lundi 04/09/2017, '-------', Santiago A.
