@@ -49,3 +49,35 @@ Voici quelques suggestions:
 - [Christian Heilmann](https://twitter.com/codepo8)
 - [Teddy](https://twitter.com/teddykishi)
 - [Alexandre](https://twitter.com/pixeline)
+
+
+## Sujets potentiels : (à compléter) 
+
+- jQuery
+- Vue.js
+- SVG
+- Flexbox
+- Les langages de programmation côté serveur 
+- LesReact.js
+- Les bibliothèques JavaScript 
+- Les serveurs Web 
+- Les systèmes de gestion de contenu (CMS) 
+- Les systèmes d'exploitation 
+- JavaScript Content Delivery Network 
+- Les widgets des réseaux sociaux 
+- Les outils d'analyse du trafic 
+- Responsive design
+- Le scroll infini
+- Le défilement parallaxe 
+- Les vidéos dans le web
+- Les micro-interactions pour améliorer l’UX 
+- Le material design
+- Robots.txt
+- Trouver des images gratuites et libres de droits
+- Sitemap
+- Format d’image pour le web
+- SASS
+- Grille CSS/SASS
+- JavaScript Scope and Closures
+- Form Validation 
+
