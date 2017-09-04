@@ -13,7 +13,7 @@ Format à respecter:
 - Mercredi 30/08/2017, "Webpack", Ludovic Patho ,
 - Jeudi 31/09/2017, " ", ,
 - Vendredi 1/09/2017, " ", ,
-- Lundi 04/09/2017, '-------', Santiago A.
+- Lundi 04/09/2017, 'Programmation Functionelle-------', Santiago A.
 - Mardi 05/09/2017, " ", ,
 - Mercrdi 06/09/2017, "Reactjs", Daniela
 - Jeudi 07/09/2017, " ", ,
