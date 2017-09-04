@@ -15,8 +15,8 @@ Format à respecter:
 - Vendredi 1/09/2017, " ", ,
 - Lundi 04/09/2017, '-------', Santiago A.
 - Mardi 05/09/2017, " ", ,
-- Mercrdi 06/09/2017, " ", ,
-- Jeudi 07/09/2017, "React", Daniela
+- Mercrdi 06/09/2017, "Reactjs", Daniela
+- Jeudi 07/09/2017, " ", ,
 - Vendredi 08/09/2017, "", ,
 - Lundi 11/09/2017, " Angular 4", Jimmy;
 - Mardi 12/09/2017, " ", ;
