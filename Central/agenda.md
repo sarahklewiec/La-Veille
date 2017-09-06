@@ -15,7 +15,7 @@ Format à respecter:
 - Vendredi 1/09/2017, " ", ,
 - Lundi 04/09/2017, 'Programmation Functionelle-------', Santiago A.
 - Mardi 05/09/2017, "Les keyframes", Ludovic Patho,
-- Mercrdi 06/09/2017, "Reactjs", Daniela
+- Mercredi 06/09/2017, "Reactjs", Daniela
 - Jeudi 07/09/2017, " ", ,
 - Vendredi 08/09/2017, "", ,
 - Lundi 11/09/2017, " Angular 4", Jimmy;
