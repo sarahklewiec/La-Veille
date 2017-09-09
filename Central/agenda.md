@@ -19,7 +19,7 @@ Format à respecter:
 - Jeudi 07/09/2017, " ", ,
 - Vendredi 08/09/2017, "", ,
 - Lundi 11/09/2017, " Angular 4", Jimmy;
-- Mardi 12/09/2017, "Magic constants Php ",Gabriele ;
+- Mardi 12/09/2017, " ", ;
 - Mercredi 13/09/2017, " ", ;
 - Jeudi 14/09/2017, 'a confirmer' Salvatore
 - Vendredi 14/09/2017, " ",
