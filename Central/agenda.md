@@ -4,26 +4,12 @@ Format à respecter:
 
 ## L'agenda des veilles à Central
 
-- Vendredi 14/07/2017, "A confirmer" , Santiago
-- mercredi 16/08/2017, "Gulp ou webpack au choix", Ludovic Patho
-- jeudi 17/08/2017, "Des trucs pour maitriser Google", Alexandre Plennevaux
-- Vendredi 18/08/2017, "A confirmer", Salvatore Saia;
-- Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
-- Mardi 29/08/2017, 'Intro a Ruby - comparaison avec PHP. ' Thomas aKa Blutshy.
-- Mercredi 30/08/2017, "Webpack", Ludovic Patho ,
-- Jeudi 31/09/2017, " ", ,
-- Vendredi 1/09/2017, " ", ,
-- Lundi 04/09/2017, 'Programmation Functionelle-------', Santiago A.
-- Mardi 05/09/2017, "Les keyframes", Ludovic Patho,
-- Mercredi 06/09/2017, "Reactjs", Daniela
-- Jeudi 07/09/2017, " ", ,
-- Vendredi 08/09/2017, "", ,
-- Lundi 11/09/2017, " Angular 4", Jimmy;
+- Lundi 11/09/2017, "Les règles à respecter", Alex;
 - Mardi 12/09/2017, " ", ;
-- Mercredi 13/09/2017, " ", ;
-- Jeudi 14/09/2017, 'a confirmer' Salvatore
+- Mercredi 13/09/2017, 'a confirmer', Salvatore;
+- Jeudi 14/09/2017, Degroof Petercam
 - Vendredi 14/09/2017, " ",
-- Lundi 15/09/2017, " Xamarin Forms", Jimmy;
+- Lundi 15/09/2017, " ",
 - Mardi 16/09/2017, " ",
 - Mercredi 17/09/2017, " ",
 - Jeudi 18/09/2017, " ",
@@ -59,15 +45,16 @@ Format à respecter:
 - Mercredi 12/07/2017, "GTmetrix", geoffrey marique
 - Jeudi 13/07/2017, 'HTTPS', David V 
 - Vendredi 14/07/2017, "A confirmer" , Santiago
+- mercredi 16/08/2017, "Gulp ou webpack au choix", Ludovic Patho
+- jeudi 17/08/2017, "Des trucs pour maitriser Google", Alexandre Plennevaux
 - Vendredi 18/08/2017, "a confirmer", Salvatore Saia;
-
+- Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
 - Lundi 28/08/2017, 'ECMAScript 6', David V
-
-
-
-- Lundi 04/09/2017, '-------', Santiago A.
- 
-
-
-
-- Jeudi 07/09/2017, 'a confirmer' Salvatore
+- Mardi 29/08/2017, 'Intro a Ruby - comparaison avec PHP. ' Thomas aKa Blutshy.
+- Mercredi 30/08/2017, "Webpack", Ludovic Patho ,
+- Vendredi 1/09/2017, " ", ,
+- Lundi 04/09/2017, 'Programmation Functionelle-------', Santiago A.
+- Mardi 05/09/2017, "Les keyframes", Ludovic Patho,
+- Mercredi 06/09/2017, "Reactjs", Daniela
+- Jeudi 07/09/2017, " ", ,
+- Vendredi 08/09/2017, "", ,
