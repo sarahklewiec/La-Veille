@@ -13,9 +13,10 @@ Format à respecter:
 - Mardi 16/09/2017, " ",
 - Mercredi 17/09/2017, " ",
 - lundi 18/09/2017, " ",
-- mardi 19/09/2017, "un truc dont je ne sais pas encore le sujet et dont je vais bosser la vieille", Safia
+- mardi 19/09/2017, 
 - Mecredi 20.09.2017 : "Petite demo de LARAVEL (framework PHP)" - Thomas
 - Lundi 25.09.2017 : '30 secondes sur la synthaxe alternative en PHP' -  Thomas
+- jeudi 28.09.2017 : 'Google Card ' - Safia
 
 
 ## Archive 
