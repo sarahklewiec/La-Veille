@@ -1,4 +1,4 @@
-# La Veille à BXL Central 
+# La Veille à BeCode 
 
 Il est important de faire de la veille pour se tenir à jour des dernières avancées, des derniers langages de programmation, des derniers outils et tutoriels... bref pour être toujours à jour et se perfectionner.  
 
@@ -25,7 +25,7 @@ Via le terminal :
  `git checkout {prenom-nom}`   
 1. Dis à Github qu'il doit créer ta branche également sur github.com et pas seulement en local: 
  `git push --set-upstream origin {prenom-nom}`  
-1. Ouvre le fichier [Central/Agenda.md](agenda.md) et ajoute la **date de passage**, **le sujet**, **ton prénom et ton nom** en bas de la liste (qui doit rester chronologique)  
+1. Ouvre le fichier [agenda.md](./agenda.md) et ajoute la **date de passage**, **le sujet**, **ton prénom et ton nom** en bas de la liste (qui doit rester chronologique)  
 1. Commit avec un message descriptif, par exemple:  
    - `git add .` (pour ajouter les fichiers modifiés sur le stage du prochain commit)  
    - `git commit -m "Ajout de ma prochaine veille sur les dégradés en CSS"` : le commit en lui-même   
@@ -51,14 +51,14 @@ Voici quelques suggestions:
 - [Alexandre](https://twitter.com/pixeline)
 
 
-## Sujets potentiels : (à compléter) 
+## Sujets potentiels 
 
 - jQuery
 - Vue.js
 - SVG
 - Flexbox
 - Les langages de programmation côté serveur 
-- LesReact.js
+- React.js
 - Les bibliothèques JavaScript 
 - Les serveurs Web 
 - Les systèmes de gestion de contenu (CMS) 
@@ -80,4 +80,5 @@ Voici quelques suggestions:
 - Grille CSS/SASS
 - JavaScript Scope and Closures
 - Form Validation 
+- ...
 
