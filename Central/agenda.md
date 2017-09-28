@@ -2,11 +2,21 @@
 Format à respecter:   
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom
 
-## L'agenda des veilles à Central  
-- Vendredi 14/07/2017, "A confirmer" , Santiago
-- mercredi 16/08/2017, "Gulp ou webpack au choix", Ludovic Patho
-- jeudi 17/08/2017, "C'est encore loin pour trouver un sujet", Safia
-- Vendredi 18/08/2017, "A confirmer", Salvatore Saia;
+## L'agenda des veilles à Central
+
+- Lundi 11/09/2017, "Les règles à respecter", Alex;
+- Mardi 12/09/2017, " ", ;
+- Mercredi 13/09/2017, 'a confirmer', Salvatore;
+- Jeudi 14/09/2017, Degroof Petercam
+- Vendredi 14/09/2017, " ",
+- Lundi 15/09/2017, " ",
+- Mardi 16/09/2017, " ",
+- Mercredi 17/09/2017, " ",
+- lundi 18/09/2017, " ",
+- mardi 19/09/2017, 
+- Mecredi 20.09.2017 : "Petite demo de LARAVEL (framework PHP)" - Thomas
+- Lundi 25.09.2017 : '30 secondes sur la synthaxe alternative en PHP' -  Thomas
+- jeudi 28.09.2017 : 'Google Card ' - Safia
 
 
 ## Archive 
@@ -30,10 +40,24 @@ Format à respecter:
 - Vendredi 30/06/2017, "A confirmer", "Salvatore Saia"
 - Lundi 03/07/2017, "A voir", "Gabriele Virga"
 - Mardi 04/07/2017, "A confirmer", "Jayce Kaje" => Remplacé par Thomas : PHP orienté Object
-- Mercredi 05/07/2017,"JAVA + Eclipse " Jimmy 
+- Mercredi 05/07/2017,"JAVA + Eclipse " Jimmy => Remplacé par Safia : Zeal
 - Jeudi 06/07/2017,"..." Eric N. [Reporté au 06/07/2017 ] 
 - Vendredi 07/07/2017,Hugo ,
 - Lundi 10/07/2017,"A confirmer", "Jayce Kaje"[Recuperation du mercredi 14/06/2017] 
 - Mardi 11/07/2017, Khaled , 
-- Mercredi 12/07/2017, "GTmetrix", geoffrey
+- Mercredi 12/07/2017, "GTmetrix", geoffrey marique
 - Jeudi 13/07/2017, 'HTTPS', David V 
+- Vendredi 14/07/2017, "A confirmer" , Santiago
+- mercredi 16/08/2017, "Gulp ou webpack au choix", Ludovic Patho
+- jeudi 17/08/2017, "Des trucs pour maitriser Google", Alexandre Plennevaux
+- Vendredi 18/08/2017, "a confirmer", Salvatore Saia;
+- Lundi 21/08/2017, " Raccourci Sublime Text", Safia B.;
+- Lundi 28/08/2017, 'ECMAScript 6', David V
+- Mardi 29/08/2017, 'Intro a Ruby - comparaison avec PHP. ' Thomas aKa Blutshy.
+- Mercredi 30/08/2017, "Webpack", Ludovic Patho ,
+- Vendredi 1/09/2017, " ", ,
+- Lundi 04/09/2017, 'Programmation Functionelle-------', Santiago A.
+- Mardi 05/09/2017, "Les keyframes", Ludovic Patho,
+- Mercredi 06/09/2017, "Reactjs", Daniela
+- Jeudi 07/09/2017, " ", ,
+- Vendredi 08/09/2017, "", ,
