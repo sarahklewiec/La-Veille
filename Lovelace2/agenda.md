@@ -7,11 +7,11 @@ Format à respecter:
 
 - vendredi 29/09/2017, " ", ;
 - lundi 2/10/2017, " ", ;
-- mardi 3/10/2017, " ", ;
+- mardi 3/10/2017, "Belpois Nicolas",Formation Gratuite sur Internet;
 - mercredi 4/10/2017, " ", ;
 - jeudi 5/10/2017, " ", ;
 - vendredi 6/10/2017, " ", ;
 
 
-## Archive 
+## Archive
 - jeudi 28/09/2017, "GitHub", Alex;
