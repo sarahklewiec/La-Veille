@@ -10,7 +10,7 @@ Format à respecter:
 - mardi 3/10/2017, "Belpois Nicolas",Formation Gratuite sur Internet;
 - mercredi 4/10/2017, " ", ;
 - jeudi 5/10/2017, " ", ;
-- vendredi 6/10/2017, " ", ;
+- vendredi 6/10/2017, "L'arrivée des bots dans nos T'chats", Gaëtan Ribonnet;
 
 
 ## Archive
