@@ -7,7 +7,7 @@ Format à respecter:
 
 - vendredi 29/09/2017, " Openclassrooms : formations Git / Github et Markdown pour les débutants ", Marie-Ange Bouchat;
 
-- lundi 2/10/2017, "L'importance de l'UX Design", Axel FIOLLE;
+- lundi 2/10/2017, "L'importance de l'UX Design", Axel;
 
 - mardi 3/10/2017, "Belpois Nicolas",Formation Gratuite sur Internet;
 
