@@ -29,7 +29,7 @@ Format à respecter:
 
 - lundi 16/10/2017, " ", ;
 
-- mardi 17/10/2017, " Flexbox" , Marie-Ange Bouchat ; 
+- mardi 17/10/2017, " Les Flexbox, c'est la vie!" , Marie-Ange Bouchat & Steve Gravy; 
 
 - mercredi 18/10/2017, " ", ;
 
