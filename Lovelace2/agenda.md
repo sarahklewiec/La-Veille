@@ -23,13 +23,13 @@ Format à respecter:
 
 - mercredi 11/10/2017, "Ruby", Thomas Point ;
 
-- jeudi 12/10/2017, " ", ;
+- jeudi 12/10/2017, "Responsive Design ", Delphine Braive ;
 
 - vendredi 13/10/2017, " Introduction rapide à l'appelation Framework  ", Syl Alonsious ;
 
 - lundi 16/10/2017, " ", ;
 
-- mardi 17/10/2017, " Les Flexbox, c'est la vie!" , Marie-Ange Bouchat & Steve Gravy; 
+- mardi 17/10/2017, " Les Flexbox, c'est la vie!" , Marie-Ange Bouchat & Steve Gravy;
 
 - mercredi 18/10/2017, " ", ;
 
