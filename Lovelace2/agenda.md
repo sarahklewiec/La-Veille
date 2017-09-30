@@ -5,7 +5,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- vendredi 29/09/2017, " ", ;
+- vendredi 29/09/2017, " Openclassrooms : formations Git / Github et Markdown pour les débutants ", Marie-Ange Bouchat;
 
 - lundi 2/10/2017, "L'importance de l'UX Design", Axel FIOLLE;
 
