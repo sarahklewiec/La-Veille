@@ -13,7 +13,7 @@ Format à respecter:
 
 - mercredi 4/10/2017, " ", ;
 
-- jeudi 5/10/2017, " ", ;
+- jeudi 5/10/2017, "Decouverte du Terminal Cmder", Ilias CHERGUI;
 
 - vendredi 6/10/2017, "L'arrivée des bots dans nos T'chats", Gaëtan Ribonnet;
 
