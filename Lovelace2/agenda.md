@@ -11,7 +11,7 @@ Format à respecter:
 
 - mardi 3/10/2017, "Belpois Nicolas",Formation Gratuite sur Internet;
 
-- mercredi 4/10/2017, " ", ;
+- mercredi 4/10/2017, "Bootstrap", Kevin Somao;
 
 - jeudi 5/10/2017, " ", ;
 
