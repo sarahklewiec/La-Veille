@@ -27,7 +27,7 @@ Format à respecter:
 
 - vendredi 13/10/2017, " Introduction rapide à l'appelation Framework  ", Syl Alonsious ;
 
-- lundi 16/10/2017, " ", ;
+- lundi 16/10/2017, "les transitions css ", Jimmy Goossens ;
 
 - mardi 17/10/2017, " Les Flexbox, c'est la vie!" , Marie-Ange Bouchat & Steve Gravy;
 
