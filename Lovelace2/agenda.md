@@ -1,4 +1,4 @@
-# Veille: ordre de passage à Lovelace 2
+﻿# Veille: ordre de passage à Lovelace 2
 
 Format à respecter:   
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
@@ -27,7 +27,7 @@ Format à respecter:
 
 - mardi 17/10/2017, " Les Flexbox, c'est la vie!" , Marie-Ange Bouchat & Steve Gravy;
 
-- mercredi 18/10/2017, " ", ;
+- mercredi 18/10/2017, "Les vidéos dans le web", Jawad Zailachi;
 
 - jeudi 19/10/2017, "Le défilement parallaxe", Laureen Bataille ;
 
