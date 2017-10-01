@@ -17,7 +17,7 @@ Format à respecter:
 
 - vendredi 6/10/2017, "L'arrivée des bots dans nos T'chats", Gaëtan Ribonnet;
 
-- lundi 9/10/2017, " ", ;
+- lundi 9/10/2017, "Le terminal, un art de magicien ou un outil magique?", Marvin LOUIS;
 
 - mardi 10/10/2017, " ", ;
 
