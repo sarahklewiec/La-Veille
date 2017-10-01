@@ -19,7 +19,7 @@ Format à respecter:
 
 - lundi 9/10/2017, "Le terminal, un art de magicien ou un outil magique?", Marvin LOUIS;
 
-- mardi 10/10/2017, " ", ;
+- mardi 10/10/2017, "React.js, Facebook et ses outils à double tranchant ",Valerian Thomas ;
 
 - mercredi 11/10/2017, "Ruby", Thomas Point ;
 
