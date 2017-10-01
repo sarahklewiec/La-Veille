@@ -37,7 +37,7 @@ Format à respecter:
 
 - vendredi 20/10/2017, " ", ;
 
-- lundi 23/10/2017, " ", ;
+- lundi 23/10/2017, "L'URL rewriting ", Caroline Bieuvelet ;
 
 - mardi 24/10/2017, " ", ;
 
