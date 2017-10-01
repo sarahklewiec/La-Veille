@@ -7,7 +7,7 @@ Format à respecter:
 
 - mardi 3/10/2017, "formation Gratuite",Nicolas Belpois;
 
-- mercredi 4/10/2017, "Bootstrap", Kevin Somao;
+- mercredi 4/10/2017, "Le plugin Emmet", Kevin Somao;
 
 - jeudi 5/10/2017, "Decouverte du Terminal Cmder", Ilias CHERGUI;
 
