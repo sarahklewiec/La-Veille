@@ -33,7 +33,7 @@ Format à respecter:
 
 - mercredi 18/10/2017, " ", ;
 
-- jeudi 19/10/2017, " ", ;
+- jeudi 19/10/2017, "Le défilement parallaxe", Laureen Bataille ;
 
 - vendredi 20/10/2017, " ", ;
 
