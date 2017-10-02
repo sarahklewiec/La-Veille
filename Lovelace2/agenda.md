@@ -17,7 +17,7 @@ Format à respecter:
 
 - mardi 10/10/2017, "React.js, Facebook et ses outils à double tranchant ",Valerian Thomas ;
 
-- mercredi 11/10/2017, "Ruby", Thomas Point ;
+- mercredi 11/10/2017, "Ruby", Thomas Point;
 
 - jeudi 12/10/2017, "Responsive Design ", Delphine Braive ;
 
