@@ -40,12 +40,16 @@ Format à respecter:
 - mardi 24/10/2017, "Les systèmes d'exploitation", Trabelsi Mehdi ;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - mercredi 25/10/2017, "SASS", Weichuan Tran ;
 =======
 - mercredi 25/10/2017, "Format d’image pour le web", Nicolas Van Roost ;
 >>>>>>> 8e3707d6b0ebe22061f8bdd3c56d237f8526ca31
+=======
+- mercredi 25/10/2017, "", ;
+>>>>>>> {Weichuan-Tran}
 
-- jeudi 26/10/2017, " ", ;
+- jeudi 26/10/2017, "SASS ", Weichuan Tran ;
 
 - vendredi 27/10/2017, " ", ;
 
