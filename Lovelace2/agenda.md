@@ -33,7 +33,7 @@ Format à respecter:
 
 - jeudi 19/10/2017, "Le défilement parallaxe", Laureen Bataille ;
 
-- vendredi 20/10/2017, " ", ;
+- vendredi 20/10/2017, "le porte feuille électronique", Ornella Simba ;
 
 - lundi 23/10/2017, "L'URL rewriting ", Caroline Bieuvelet ;
 
