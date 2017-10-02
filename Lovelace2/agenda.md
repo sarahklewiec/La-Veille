@@ -5,6 +5,8 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
+- lundi 2/10/2017 "UX design", Axel fiolle
+
 - mardi 3/10/2017, "formation Gratuite",Nicolas Belpois;
 
 - mercredi 4/10/2017, "Le plugin Emmet", Kevin Somao;
