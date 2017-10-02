@@ -39,7 +39,7 @@ Format à respecter:
 
 - mardi 24/10/2017, "Les systèmes d'exploitation", Trabelsi Mehdi ;
 
-- mercredi 25/10/2017, " ", ;
+- mercredi 25/10/2017, "Format d’image pour le web", Nicolas Van Roost ;
 
 - jeudi 26/10/2017, " ", ;
 
