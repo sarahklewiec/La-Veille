@@ -35,7 +35,7 @@ Format à respecter:
 
 - lundi 23/10/2017, "L'URL rewriting ", Caroline Bieuvelet ;
 
-- mardi 24/10/2017, " ", ;
+- mardi 24/10/2017, "Les systèmes d'exploitation", Trabelsi Mehdi ;
 
 - mercredi 25/10/2017, " ", ;
 
