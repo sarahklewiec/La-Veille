@@ -51,7 +51,7 @@ Format à respecter:
 
 - jeudi 26/10/2017, "SASS ", Weichuan Tran ;
 
-- vendredi 27/10/2017, " ", ;
+- vendredi 27/10/2017, "Trouver des images gratuites et libres de droits ", Vincent Nassaux ;
 
 - lundi 30/10/2017, " ", ;
 
