@@ -41,7 +41,7 @@ Format à respecter:
 
 - mercredi 25/10/2017, "Format d’image pour le web", Nicolas Van 
 
-- jeudi 26/10/2017, "Selecteur CSSs ", Weichuan Tran ;
+- jeudi 26/10/2017, "Selecteur CSS ", Weichuan Tran ;
 
 - vendredi 27/10/2017, "Trouver des images gratuites et libres de droits ", Vincent Nassaux ;
 
