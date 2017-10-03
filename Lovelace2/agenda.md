@@ -45,7 +45,7 @@ Format à respecter:
 
 - vendredi 27/10/2017, "Trouver des images gratuites et libres de droits ", Vincent Nassaux ;
 
-- lundi 30/10/2017, " ", ;
+- lundi 30/10/2017, "Sous système linux sous windows"Antoine Gjeloshaj, ;
 
 - mardi 31/10/2017, " ", ;
 
