@@ -11,7 +11,7 @@ Format à respecter:
 
 - mercredi 4/10/2017, "Le plugin Emmet", Kevin Somao;
 
-- jeudi 5/10/2017, "Decouverte du Terminal Cmder", Ilias CHERGUI;
+- jeudi 5/10/2017, "Sitemap", Ilias CHERGUI;
 
 - vendredi 6/10/2017, "L'arrivée des bots dans nos T'chats", Gaëtan Ribonnet;
 
@@ -39,7 +39,7 @@ Format à respecter:
 
 - mardi 24/10/2017, "Les systèmes d'exploitation", Trabelsi Mehdi ;
 
-- mercredi 25/10/2017, "Format d’image pour le web", Nicolas Van 
+- mercredi 25/10/2017, "Format d’image pour le web", Nicolas Van
 
 - jeudi 26/10/2017, "Selecteur CSS ", Weichuan Tran ;
 
