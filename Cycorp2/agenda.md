@@ -25,4 +25,4 @@ Format à respecter:
 - Vendredi 27/10/2017 "*Sujet à venir*", __Daniel Wenger__
 
 - Lundi 30/10/2017
-- Mardi 31/10/2017
+- Mardi 31/10/2017  "*Sujet à venir*", __Lucile Verrecchia__
