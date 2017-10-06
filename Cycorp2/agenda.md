@@ -22,7 +22,7 @@ Format à respecter:
 - Mardi 24/10/2017
 - Mercredi 25/10/2017
 - Jeudi 26/10/2017
-- Vendredi 27/10/2017
+- Vendredi 27/10/2017 "*Sujet à venir*", __Daniel Wenger__
 
-- Lundi 30/10/2017"*Petite présentation d'Odoo ou autre sujet à déterminer*"__Tan Phan__
+- Lundi 30/10/2017
 - Mardi 31/10/2017
