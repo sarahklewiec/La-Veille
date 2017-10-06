@@ -16,7 +16,7 @@ Format à respecter:
 - Mardi 17/10/2017
 - Mercredi 18/10/2017
 - Jeudi 17/10/2017
-- Vendredi 18/10/2017"*Differencier les systemes d'exploitation*", __Michael Bavier__
+- Vendredi 18/10/2017"*Differentiating operating systems*", __Michael Bavier__
 
 - Lundi 23/10/2017
 - Mardi 24/10/2017
