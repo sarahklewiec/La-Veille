@@ -25,7 +25,3 @@ Format à respecter:
 - Vendredi 27/10/2017 "*Sujet à venir*", __Daniel Wenger__
 - Lundi 30/10/2017
 - Mardi 31/10/2017  "*fontawesome et icomoon.io*", __Lucile Verrecchia__
-# Veille: ordre de passage à Cycorp 2
-
-Format à respecter:   
-- date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
