@@ -18,7 +18,7 @@ Format à respecter:
 - Jeudi 17/10/2017
 - Vendredi 18/10/2017"*Differentiating operating systems*", __Michael Bavier__
 
-- Lundi 23/10/2017
+- Lundi 23/10/2017 "*Sujet à définir*" __Amandine Meeus__
 - Mardi 24/10/2017
 - Mercredi 25/10/2017
 - Jeudi 26/10/2017
@@ -26,3 +26,4 @@ Format à respecter:
 
 - Lundi 30/10/2017
 - Mardi 31/10/2017  "*fontawesome et icomoon.io*", __Lucile Verrecchia__
+
