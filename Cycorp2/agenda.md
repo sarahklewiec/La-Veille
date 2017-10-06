@@ -5,4 +5,4 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- __Exemple__:lundi 05/10/2017 "*Guide de survie GITHUB*", Marie Thielens
+- Jeudi 05/10/2017 "*Guide de survie GITHUB*", __Marie Thielens__
