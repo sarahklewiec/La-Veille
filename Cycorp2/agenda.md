@@ -20,7 +20,7 @@ Format à respecter:
 
 - Lundi 23/10/2017
 - Mardi 24/10/2017
-- Mercredi 25/10/2017
+- Mercredi 25/10/2017 "*Sujet à venir*", __Jonathan Caron__
 - Jeudi 26/10/2017   "*svg animation*", __Saritaas Abdulkadir__
 - Vendredi 27/10/2017 "*Sujet à venir*", __Daniel Wenger__
 
