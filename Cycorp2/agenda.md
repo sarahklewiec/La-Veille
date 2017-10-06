@@ -18,13 +18,13 @@ Format à respecter:
 - Jeudi 17/10/2017
 - Vendredi 18/10/2017"*Differentiating operating systems*", __Michael Bavier__
 
-- Lundi 23/10/2017
+- Lundi 23/10/2017 "*Sujet à définir*" __Amandine Meeus__
 - Mardi 24/10/2017
-- Mercredi 25/10/2017
-- Jeudi 26/10/2017
+- Mercredi 25/10/2017 "*Sujet à venir*", __Jonathan Caron__
+- Jeudi 26/10/2017   "*svg animation*", __Saritaas Abdulkadir__
 - Vendredi 27/10/2017 "*Sujet à venir*", __Daniel Wenger__
 
-- Lundi 30/10/2017
+- Lundi 30/10/2017 "*Sujet à venir*", __Tan Phan__
 - Mardi 31/10/2017  "*Sujet à venir*", __Lucile Verrecchia__
 
 =======
