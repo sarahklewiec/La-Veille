@@ -16,13 +16,13 @@ Format à respecter:
 - Mardi 17/10/2017
 - Mercredi 18/10/2017
 - Jeudi 17/10/2017
-- Vendredi 18/10/2017
+- Vendredi 18/10/2017"*Differentiating operating systems*", __Michael Bavier__
 
 - Lundi 23/10/2017
 - Mardi 24/10/2017
 - Mercredi 25/10/2017
 - Jeudi 26/10/2017
-- Vendredi 27/10/2017
+- Vendredi 27/10/2017 "*Sujet à venir*", __Daniel Wenger__
 
-- Lundi 30/10/2017
-- Mardi 31/10/2017
+- Lundi 30/10/2017 "*Petite présentation d'Odoo ou autre sujet à déterminer*", __Tan Phan__
+- Mardi 31/10/2017  "*Sujet à venir*", __Lucile Verrecchia__
