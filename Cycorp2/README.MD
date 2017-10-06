@@ -25,7 +25,7 @@ Via le terminal :
  `git checkout {prenom-nom}`   
 1. Dis à Github qu'il doit créer ta branche également sur github.com et pas seulement en local: 
  `git push --set-upstream origin {prenom-nom}`  
-1. Ouvre le fichier [Central/Agenda.md](agenda.md) et ajoute la **date de passage**, **le sujet**, **ton prénom et ton nom** en bas de la liste (qui doit rester chronologique)  
+1. Ouvre le fichier [Cycorp2/Agenda.md](agenda.md) et ajoute la **date de passage**, **le sujet**, **ton prénom et ton nom** en bas de la liste (qui doit rester chronologique)  
 1. Commit avec un message descriptif, par exemple:  
    - `git add .` (pour ajouter les fichiers modifiés sur le stage du prochain commit)  
    - `git commit -m "Ajout de ma prochaine veille sur les dégradés en CSS"` : le commit en lui-même   
