@@ -13,14 +13,14 @@ Format à respecter:
 - Vendredi 13/10/2017
 
 - Lundi 16/10/2017
-- Mardi 17/10/2017
+- Mardi 17/10/2017 "*Les ChatBot*", __Daniel De Vos__
 - Mercredi 18/10/2017
 - Jeudi 17/10/2017
 - Vendredi 18/10/2017"*Differentiating operating systems*", __Michael Bavier__
 
 - Lundi 23/10/2017
 - Mardi 24/10/2017
-- Mercredi 25/10/2017 "*Les ChatBot*", __Daniel De Vos__
+- Mercredi 25/10/2017 
 - Jeudi 26/10/2017   "*svg animation*", __Saritaas Abdulkadir__
 - Vendredi 27/10/2017 "*Sujet à venir*", __Daniel Wenger__
 
