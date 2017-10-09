@@ -22,7 +22,7 @@ Format à respecter:
 - Lundi 23/10/2017 "*Sujet à définir*", __Amandine Meeus__
 - Mardi 24/10/2017 "*Sujet à définir*", __Alituna Arel__
 - Mercredi 25/10/2017 "*Sujet à venir*", __Jonathan Caron__
-- Jeudi 26/10/2017   "*svg animation*", __Saritaas Abdulkadir__
+- Jeudi 26/10/2017   "*svg animation & Le défilement parallaxe*", __Saritaas Abdulkadir__
 - Vendredi 27/10/2017 "*Sujet à venir*", __Daniel Wenger__
 
 - Lundi 30/10/2017 "*Sujet à venir*", __Tan Phan__
