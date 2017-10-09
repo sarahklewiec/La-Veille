@@ -16,7 +16,7 @@ Format à respecter:
 - Lundi 16/10/2017
 - Mardi 17/10/2017
 - Mercredi 18/10/2017
-- Jeudi 17/10/2017
+- Jeudi 17/10/2017 "*Les chatBot* , __Daniel De Vos__ 
 - Vendredi 18/10/2017"*Differentiating operating systems*", __Michael Bavier__
 
 - Lundi 23/10/2017 "*Sujet à définir*", __Amandine Meeus__
