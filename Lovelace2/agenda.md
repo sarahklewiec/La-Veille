@@ -49,6 +49,7 @@ Format à respecter:
 
 - mardi 31/10/2017, "less Sass Compass les prepros css", Kevin Flabat;
 
+- date (01/11/2017) , "Expérience utilisateur UX" , Stéphane Dethy;
 
 
 
