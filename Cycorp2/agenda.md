@@ -5,10 +5,10 @@ Format à respecter:
 
 ## L'agenda des veilles à Cycorp 2
 
-- Jeudi 05/10/2017 "*Guide de survie GITHUB*", __Marie Thielens__ [lien vers mon git](https://github.com/marieThielens/veille)
+- Jeudi 05/10/2017 "*Guide de survie GITHUB*", __Marie Thielens__ 
 
 - Lundi 09/10/2017 "*To Sass, or not to Scss, that is the question.*", __Fidele Murengezi__
-- Mardi 10/10/2017  "*Mise en forme avec Flexbox*", __Marie Thielens__
+- Mardi 10/10/2017  "*Mise en forme avec Flexbox*", __Marie Thielens__ [lien vers mon git](https://github.com/marieThielens/veille)
 - Mercredi 11/10/2017 "*Introduction au Bitcoin*", __Aldebaran Desombergh__
 - Jeudi  12/10/2017 "*The case of Estonia*", __Elisa della Faille__
 - Vendredi 13/10/2017
