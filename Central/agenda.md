@@ -5,7 +5,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Central
 
-- Lundi 16/10/2017 "Les variables en css sans préprocesseur" Ludo
+- Lundi 16/10/2017 "Les variables en css sans préprocesseur" Ludovic Patho
 
 ## Archive 
 - Mardi 20/06/2017, ____________
@@ -62,5 +62,3 @@ Format à respecter:
 - Mecredi 20.09.2017 : "Petite demo de LARAVEL (framework PHP)" - Thomas
 - Lundi 25.09.2017 : '30 secondes sur la synthaxe alternative en PHP' -  Thomas
 - Mardi 03/10/2017, "WordPress Theme Development: une étude de cas: Parismatch.be", Alexandre
-- Lundi 09.10.2017 : 'Phaser ' - Safia
-- vendredi 13.10.2017 : 'Google Card ' - Safia
