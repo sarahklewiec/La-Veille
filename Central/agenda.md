@@ -5,7 +5,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Central
 
-- Lundi 16/10/2017 "Les variables en css sans préprocesseur"
+- Lundi 16/10/2017 "Les variables en css sans préprocesseur" Ludo
 
 ## Archive 
 - Mardi 20/06/2017, ____________
