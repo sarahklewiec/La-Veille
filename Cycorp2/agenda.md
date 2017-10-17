@@ -19,7 +19,7 @@ Format à respecter:
 - Jeudi 19/10/2017 "*Les chatBot*" , __Daniel De Vos__
 - Vendredi 20/10/2017"*Differentiating operating systems*", __Michael Bavier__
 
-- Lundi 23/10/2017 "*Sujet à définir*", __Amandine Meeus__
+- Lundi 23/10/2017 "*En quoi consiste l'écoconception web?*", __Amandine Meeus__
 - Mardi 24/10/2017 "*Sujet à définir*", __Alituna Arel__
 - Mercredi 25/10/2017 "*Wix, un outil très utile, mais front-end seulement*", __Jonathan Caron__
 - Jeudi 26/10/2017   "*svg animation & Le défilement parallaxe*", __Saritaas Abdulkadir__
