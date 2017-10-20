@@ -5,6 +5,28 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
+- vendredi 20/10/2017, "le porte feuille électronique", Ornella Simba ;
+
+- lundi 23/10/2017, "Le défilement parallaxe", Laureen Bataille ;
+
+- mardi 24/10/2017, "Les systèmes d'exploitation", Trabelsi Mehdi ;
+
+- mercredi 25/10/2017, "Format d’image pour le web", Nicolas Van
+
+- jeudi 26/10/2017, "Selecteur CSS ", Weichuan Tran ;
+
+- vendredi 27/10/2017, "Trouver des images gratuites et libres de droits ", Vincent Nassaux ;
+
+- lundi 30/10/2017, "Sous système linux sous windows"Antoine Gjeloshaj, ;
+
+- mardi 31/10/2017, "Gérer une équipe et un projet: comment ça marche ?", Valerian Thomas;
+
+- date (01/11/2017) , "Expérience utilisateur UX" , Stéphane Dethy;
+
+
+
+## Archive
+- jeudi 28/09/2017, "GitHub", Alex;
 - lundi 2/10/2017 "UX design", Axel fiolle
 
 - mardi 3/10/2017, "formation Gratuite",Nicolas Belpois;
@@ -32,26 +54,3 @@ Format à respecter:
 - mercredi 18/10/2017, "La  Méthodologie Agile et Scrum", Jimmy Goossens;
 
 - jeudi 19/10/2017, "L'UML", Alexandre;
-
-- vendredi 20/10/2017, "le porte feuille électronique", Ornella Simba ;
-
-- lundi 23/10/2017, "Le défilement parallaxe", Laureen Bataille ;
-
-- mardi 24/10/2017, "Les systèmes d'exploitation", Trabelsi Mehdi ;
-
-- mercredi 25/10/2017, "Format d’image pour le web", Nicolas Van
-
-- jeudi 26/10/2017, "Selecteur CSS ", Weichuan Tran ;
-
-- vendredi 27/10/2017, "Trouver des images gratuites et libres de droits ", Vincent Nassaux ;
-
-- lundi 30/10/2017, "Sous système linux sous windows"Antoine Gjeloshaj, ;
-
-- mardi 31/10/2017, "Gérer une équipe et un projet: comment ça marche ?", Valerian Thomas;
-
-- date (01/11/2017) , "Expérience utilisateur UX" , Stéphane Dethy;
-
-
-
-## Archive
-- jeudi 28/09/2017, "GitHub", Alex;
