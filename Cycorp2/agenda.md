@@ -27,7 +27,7 @@ Format à respecter:
 
 - Lundi 30/10/2017 "*Sujet à venir*", __Tan Phan__
 
-- Mardi 31/10/2017  "*fontawesome et icomoon.io*", __Lucile Verrecchia__
+- Mardi 31/10/2017  "*Fontawesome, icomoon.io et Dafont*", __Lucile Verrecchia__[https://github.com/LucileV/icones](https://github.com/LucileV/icones)
 -
 -
 -
