@@ -27,3 +27,6 @@ Format à respecter:
 
 - Lundi 30/10/2017 "*Sujet à venir*", __Tan Phan__
 - Mardi 31/10/2017  "*fontawesome et icomoon.io*", __Lucile Verrecchia__
+
+
+- Mardi 07/11/2017 "SASS", __Lucile Verrecchia__
