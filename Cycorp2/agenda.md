@@ -20,7 +20,7 @@ Format à respecter:
 - Vendredi 20/10/2017"*Differentiating operating systems*", __Michael Bavier__
 
 - Lundi 23/10/2017 "*En quoi consiste l'écoconception web?*", __Amandine Meeus__
-- Mardi 24/10/2017 "*Introduction au Docker* ", __Alituna Arel__
+- Mardi 24/10/2017 "*Introduction au Docker <3* ", __Alituna Arel__
 - Mercredi 25/10/2017 "*Wix, un outil très utile, mais front-end seulement*", __Jonathan Caron__
 - Jeudi 26/10/2017   "*svg animation & Le défilement parallaxe*", __Saritaas Abdulkadir__
 - Vendredi 27/10/2017 "*Quantum Internet*", __Daniel Wenger__
