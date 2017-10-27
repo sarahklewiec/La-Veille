@@ -31,8 +31,8 @@ Format à respecter:
 - Jeudi 2/11/2017  KIKK NAMUR
 - Vendredi 3/11/2017 "*Fontawesome, icomoon.io et Dafont*", __Lucile Verrecchia__[https://github.com/LucileV/icones](https://github.com/LucileV/icones)
 - 
--Lundi 6/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
--Mardi 7/11/2017
--Mercredi 8/11/2017
--Jeudi 9/11/2017
--Vendredi 10/11/2017
+- Lundi 6/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
+- Mardi 7/11/2017
+- Mercredi 8/11/2017
+- Jeudi 9/11/2017
+- Vendredi 10/11/2017
