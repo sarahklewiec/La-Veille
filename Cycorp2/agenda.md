@@ -21,17 +21,18 @@ Format à respecter:
 
 - Lundi 23/10/2017 "*En quoi consiste l'écoconception web?*", __Amandine Meeus__
 - Mardi 24/10/2017 "*Introduction au Docker <3* ", __Alituna Arel__
-- Mercredi 25/10/2017 "*Wix, un outil très utile, mais front-end seulement*", __Jonathan Caron__
+- Mercredi 25/10/2017 
 - Jeudi 26/10/2017   "*svg animation & Le défilement parallaxe*", __Saritaas Abdulkadir__
 - Vendredi 27/10/2017 "*Quantum Internet*", __Daniel Wenger__
 
-- Lundi 30/10/2017 "*Sujet à venir*", __Tan Phan__
+- Lundi 30/10/2017 "*Wix, un outil très utile, mais front-end seulement*", __Jonathan Caron__
+- Mardi 31/10/2017 "*Sujet à venir*", __Tan Phan__
 
-- Mardi 31/10/2017  "*Fontawesome, icomoon.io et Dafont*", __Lucile Verrecchia__[https://github.com/LucileV/icones](https://github.com/LucileV/icones)
-- Mercredi 01/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
--
--
--
--
-
-- Mardi 07/11/2017 ou autre date "SASS", __Lucile Verrecchia__
+- Jeudi 2/11/2017  KIKK NAMUR
+- Vendredi 3/11/2017 "*Fontawesome, icomoon.io et Dafont*", __Lucile Verrecchia__[https://github.com/LucileV/icones](https://github.com/LucileV/icones)
+- 
+-Lundi 6/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
+-Mardi 7/11/2017
+-Mercredi 8/11/2017
+-Jeudi 9/11/2017
+-Vendredi 10/11/2017
