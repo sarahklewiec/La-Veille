@@ -17,7 +17,7 @@ Format à respecter:
 - Vendredi 13/10/2017
 
 - Lundi 16/10/2017"*The case of Estonia*", __Elisa della Faille__
-- Mardi 17/10/2017 "*JSfiddle*", __Ali Armut__
+- Mardi 17/10/2017 "*OneNote,OpenClassrooms,StackOverflow,etc.*", __Ali Armut__
 - Mercredi 18/10/2017 "*«Nothing to hide», un documentaire sur la surveillance*", __Olga Konstantinova__
 - Jeudi 19/10/2017 "*Les chatBot*" , __Daniel De Vos__
 - Vendredi 20/10/2017"*Differentiating operating systems*", __Michael Bavier__
