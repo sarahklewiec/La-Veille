@@ -37,7 +37,7 @@ Format à respecter:
 - Vendredi 03/11/2017 "*Fontawesome, icomoon.io et Dafont*", __Lucile Verrecchia__[https://github.com/LucileV/icones](https://github.com/LucileV/icones)
 
 - Lundi 6/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
-- Mardi 07/11/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 07/11/2017 "Sass ou Scss : telle est la question !", __Fidele Murengezi__
 - Mercredi 08/11/2017 "*Sujet à définir*", __Votre Nom__
 - Jeudi 09/11/2017 "*Sujet à définir*", __Votre Nom__
 - Vendredi 10/11/2017 "*Sujet à définir*", __Votre Nom__
