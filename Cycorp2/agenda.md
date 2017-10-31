@@ -6,7 +6,7 @@ Format à respecter:
 ## L'agenda des veilles à Cycorp 2
 
 
-### Octobre 
+### Octobre
 
 - Jeudi 05/10/2017 "*Guide de survie GITHUB*", __Marie Thielens__
 
@@ -24,21 +24,21 @@ Format à respecter:
 
 - Lundi 23/10/2017 "*En quoi consiste l'écoconception web?*", __Amandine Meeus__
 - Mardi 24/10/2017 "*Introduction au Docker <3* ", __Alituna Arel__
-- Mercredi 25/10/2017 
+- Mercredi 25/10/2017
 - Jeudi 26/10/2017   "*svg animation & Le défilement parallaxe*", __Saritaas Abdulkadir__
 - Vendredi 27/10/2017 "*Quantum Internet*", __Daniel Wenger__
 
 - Lundi 30/10/2017 "*Wix, un outil très utile, mais front-end seulement*", __Jonathan Caron__
 - Mardi 31/10/2017 "*Sujet à venir*", __Tan Phan__
 
-### Novembre 
+### Novembre
 
 - Jeudi 02/11/2017  KIKK NAMUR
 - Vendredi 03/11/2017 "*Fontawesome, icomoon.io et Dafont*", __Lucile Verrecchia__[https://github.com/LucileV/icones](https://github.com/LucileV/icones)
 
 - Lundi 6/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
 - Mardi 07/11/2017 "Sass ou Scss : telle est la question !", __Fidele Murengezi__
-- Mercredi 08/11/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 08/11/2017 "*Quantum Internet*", __Daniel Wenger__
 - Jeudi 09/11/2017 "*Sujet à définir*", __Votre Nom__
 - Vendredi 10/11/2017 "*Sujet à définir*", __Votre Nom__
 
@@ -58,4 +58,3 @@ Format à respecter:
 - Mardi 28/11/2017 "*Sujet à définir*", __Votre Nom__
 - Mercredi 29/11/2017 "*Sujet à définir*", __Votre Nom__
 - Jeudi 30/11/2017 "*Sujet : React.js 101 !! *", __Ali Tuna AREL__
-
