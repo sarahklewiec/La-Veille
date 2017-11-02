@@ -8,7 +8,7 @@ Format à respecter:
 
 - date (01/11/2017) , "Expérience utilisateur UX" , Stéphane Dethy;
 
-- vendredi (03/11/2017) , "Les echosystèmes", Trabelsi Mehdi ;
+- vendredi (03/11/2017) , "Les ecosystèmes", Trabelsi Mehdi ;
 
 - lundi 06/11/2017 , "     ",     ;
 
