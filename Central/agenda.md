@@ -2,22 +2,10 @@
 Format à respecter:   
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom
 
+
 ## L'agenda des veilles à Central
 
-- Lundi 11/09/2017, "Les règles à respecter", Alex;
-- Mardi 12/09/2017, " ", ;
-- Mercredi 13/09/2017, 'a confirmer', Salvatore;
-- Jeudi 14/09/2017, Degroof Petercam
-- Vendredi 14/09/2017, " ",
-- Lundi 15/09/2017, " ",
-- Mardi 16/09/2017, " ",
-- Mercredi 17/09/2017, " ",
-- lundi 18/09/2017, " ",
-- mardi 19/09/2017, 
-- Mecredi 20.09.2017 : "Petite demo de LARAVEL (framework PHP)" - Thomas
-- Lundi 25.09.2017 : '30 secondes sur la synthaxe alternative en PHP' -  Thomas
-- jeudi 28.09.2017 : 'Google Card ' - Safia
-
+- Lundi 16/10/2017 "Les variables en css sans préprocesseur" Ludovic Patho
 
 ## Archive 
 - Mardi 20/06/2017, ____________
@@ -61,3 +49,16 @@ Format à respecter:
 - Mercredi 06/09/2017, "Reactjs", Daniela
 - Jeudi 07/09/2017, " ", ,
 - Vendredi 08/09/2017, "", ,
+- Lundi 11/09/2017, "Les règles à respecter", Alex;
+- Mardi 12/09/2017, " ", ;
+- Mercredi 13/09/2017, 'a confirmer', Salvatore;
+- Jeudi 14/09/2017, Degroof Petercam
+- Vendredi 14/09/2017, " ",
+- Lundi 15/09/2017, " ",
+- Mardi 16/09/2017, " ",
+- Mercredi 17/09/2017, " ",
+- lundi 18/09/2017, " ",
+- mardi 19/09/2017, 
+- Mecredi 20.09.2017 : "Petite demo de LARAVEL (framework PHP)" - Thomas
+- Lundi 25.09.2017 : '30 secondes sur la synthaxe alternative en PHP' -  Thomas
+- Mardi 03/10/2017, "WordPress Theme Development: une étude de cas: Parismatch.be", Alexandre
