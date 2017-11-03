@@ -14,7 +14,7 @@ Format à respecter:
 
 - mardi 07/11/2017, "     ",     ;
 
-- mercredi 08/11/2017, "     ",     ;
+- mercredi 08/11/2017, "Content first et une approche du Responsive Design", Axel Fiolle;
 
 - jeudi 09/11/2017, "     ",     ;
 
