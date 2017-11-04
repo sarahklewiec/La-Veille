@@ -20,7 +20,7 @@ Format à respecter:
 
 - vendredi 10/11/2017, " DP-LP ", Syl Alonsious;
 
-- lundi 13/11/2017, "     ",     ;
+- lundi 13/11/2017, "Le maillage interne et les backlinks", Steve Gravy;
 
 - mardi 14/11/2017, "    ",    ;
 
