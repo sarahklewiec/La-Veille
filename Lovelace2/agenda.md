@@ -18,7 +18,7 @@ Format à respecter:
 
 - jeudi 09/11/2017, "     ",     ;
 
-- vendredi 10/11/2017, " DP-LP ", Syl Alonsious;
+- vendredi 10/11/2017, " ", ;
 
 - lundi 13/11/2017, "Introduction au SEO", Steve Gravy;
 
