@@ -12,7 +12,7 @@ Format à respecter:
 
 - lundi 06/11/2017 , "     ",     ;
 
-- mardi 07/11/2017, "     ",     ;
+- mardi 07/11/2017, "La portée des variables", Thomas Point;
 
 - mercredi 08/11/2017, "Content first et une approche du Responsive Design", Axel Fiolle;
 
