@@ -16,7 +16,7 @@ Format à respecter:
 
 - mercredi 08/11/2017, "Content first et une approche du Responsive Design", Axel Fiolle;
 
-- jeudi 09/11/2017, "     ",     ;
+- jeudi 09/11/2017, "Expérience utilisateur UX", Stephane Dethy;
 
 - vendredi 10/11/2017, " ", ;
 
