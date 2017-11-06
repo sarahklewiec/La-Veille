@@ -36,10 +36,10 @@ Format à respecter:
 - Jeudi 02/11/2017  KIKK NAMUR
 - Vendredi 03/11/2017 "*Fontawesome, icomoon.io et Dafont*", __Lucile Verrecchia__[https://github.com/LucileV/icones](https://github.com/LucileV/icones)
 
-- Lundi 6/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
+- Mardi 07/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
 - Mardi 07/11/2017 "Sass ou Scss : telle est la question !", __Fidele Murengezi__
 - Mercredi 08/11/2017 "*Quantum Internet*", __Daniel Wenger__
-- Jeudi 09/11/2017 "*Sujet DOS*", __Micheal Bavier__
+- Jeudi 09/11/2017 "*Sujet OS*", __Micheal Bavier__
 - Vendredi 10/11/2017 "*Les bibliothèques JavaScript*", __Vadim Brieven__
 
 - Lundi 13/11/2017 "*Debuguer comme un Ninja*", __Aldebaran Desombergh__
