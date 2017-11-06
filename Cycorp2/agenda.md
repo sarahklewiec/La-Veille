@@ -42,7 +42,7 @@ Format à respecter:
 - Jeudi 09/11/2017 "*Sujet DOS*", __Micheal Bavier__
 - Vendredi 10/11/2017 "*Les bibliothèques JavaScript*", __Vadim Brieven__
 
-- Lundi 13/11/2017 "*Sujet à définir*", __Votre Nom__
+- Lundi 13/11/2017 "*Debuguer comme un Ninja*", __Aldebaran Desombergh__
 - Mardi 14/11/2017 "*Sujet à définir*", __Votre Nom__
 - Mercredi 15/11/2017 "*Sujet à définir*", __Votre Nom__
 - Jeudi 16/11/2017 "*Sujet à définir*", __Votre Nom__
