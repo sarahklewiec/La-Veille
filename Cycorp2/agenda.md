@@ -44,8 +44,8 @@ Format à respecter:
 
 - Lundi 13/11/2017 "*Debuguer comme un Ninja*", __Aldebaran Desombergh__
 - Mardi 14/11/2017 "*Sujet à définir*", __Willem Heremans__
-- Mercredi 15/11/2017 "*Sujet à définir*", __Votre Nom__
-- Jeudi 16/11/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 15/11/2017 "*Quantum Internet*", __Daniel Wenger__
+- Jeudi 16/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
 - Vendredi 17/11/2017 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 20/11/2017 "*Sujet à définir*", __Votre Nom__
