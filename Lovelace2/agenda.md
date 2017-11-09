@@ -28,7 +28,7 @@ Format à respecter:
 
 - jeudi 16/11/2017, "Progressive Web Apps : le pourquoi du comment du mobile immobile", Alexandre Plennevaux ;
 
-- vendredi 17/11/2017, "La création d'un projet et les relations à avoir avec un client", Kevin Flabar   ;
+- vendredi 17/11/2017, "La création d'un projet et les relations à avoir avec un client", Kevin Flabat;
 
 - lundi 20/11/2017, "    ",    ;
 
