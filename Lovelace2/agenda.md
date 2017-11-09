@@ -26,7 +26,7 @@ Format à respecter:
 
 - mercredi 15/11/2017, "    ",    ;
 
-- jeudi 16/11/2017, "     ",    ;
+- jeudi 16/11/2017, "Progressive Web Apps : le pourquoi du comment du mobile immobile", Alexandre Plennevaux ;
 
 - vendredi 17/11/2017, "     ",    ;
 
