@@ -39,12 +39,12 @@ Format à respecter:
 - Mardi 07/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
 - Mardi 07/11/2017 "Sass ou Scss : telle est la question !", __Fidele Murengezi__
 - Mercredi 08/11/2017 "*Quantum Internet*", __Daniel Wenger__
-- Jeudi 09/11/2017 "*Sujet OS*", __Micheal Bavier__
+- Jeudi 09/11/2017 "*Quantum Internet*", __Daniel Wenger__
 - Vendredi 10/11/2017 "*Les bibliothèques JavaScript*", __Vadim Brieven__
 
 - Lundi 13/11/2017 "*Debuguer comme un Ninja*", __Aldebaran Desombergh__
 - Mardi 14/11/2017 "*Sujet à définir*", __Willem Heremans__
-- Mercredi 15/11/2017 "*Quantum Internet*", __Daniel Wenger__
+- Mercredi 15/11/2017 "*Sujet OS*", __Micheal Bavier__
 - Jeudi 16/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
 - Vendredi 17/11/2017 "*Sujet à définir*", __Votre Nom__
 
