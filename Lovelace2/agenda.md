@@ -40,7 +40,7 @@ Format à respecter:
 
 - vendredi 24/11/2017, "     ",    ;
 
-- lundi 27/11/2017, "    ",    ;
+- lundi 27/11/2017, " Le testeur dans l'ombre du developpement   ", Omar Aaiachi   ;
 
 - mardi 28/11/2017, "    ",    ;
 
