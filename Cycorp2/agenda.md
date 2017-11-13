@@ -43,10 +43,10 @@ Format à respecter:
 - Vendredi 10/11/2017 "*Les bibliothèques JavaScript*", __Vadim Brieven__
 
 - Lundi 13/11/2017 "*Debuguer comme un Ninja*", __Aldebaran Desombergh__
-- Mardi 14/11/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 14/11/2017 "*NEOM*", __Pedro Rodriguez__
 - Mercredi 15/11/2017 "*Sujet OS*", __Micheal Bavier__
 - Jeudi 16/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
-- Vendredi 17/11/2017 "*NEOM*", __Pedro Rodriguez__
+- Vendredi 17/11/2017 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 20/11/2017 "*Sujet à définir*", __Votre Nom__
 - Mardi 21/11/2017 "*Sujet à définir*", __Willem Heremans__
