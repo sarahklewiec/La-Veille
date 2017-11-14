@@ -6,4 +6,4 @@ Format à respecter:
 ## L'agenda des veilles à Swartz 3
 
 
-- date (07/11/2017) , "La GitHub Attitude" , Alexandre Plennevaux;
+- 07/11/2017 , "La GitHub Attitude" , Alexandre Plennevaux;
