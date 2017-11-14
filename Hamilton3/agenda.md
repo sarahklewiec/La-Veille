@@ -5,6 +5,7 @@ Format to respect:
 
 ## L'agenda des veilles à Hamilton 3
 
+### November
 - Monday 13 November 2017: "*Guide de survie GITHUB*", __Eric Salla__ (Exemple)
 - Tuesday 14 November 2017: "SVG and intro to CSS animation", Flaviano Mucedda
 - Wednesday 15 November 2017:
@@ -19,6 +20,8 @@ Format to respect:
 - Tuesday 28 November 2017:
 - Wednesday 29 November 2017: "To be determined", Alexandre Ntougas 
 - Thursday 30 November 2017:
+
+### December
 - Vriday 01 December 2017:
 - Monday 04 December 2017:
 - Tuesday 05 December 2017:
