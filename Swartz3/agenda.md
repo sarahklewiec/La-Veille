@@ -1,4 +1,4 @@
-# Veille: ordre de passage à Swartz 3
+﻿# Veille: ordre de passage à Swartz 3
 
 Format à respecter:   
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
@@ -8,3 +8,4 @@ Format à respecter:
 
 - 07/11/2017 , "La GitHub Attitude" , Alexandre Plennevaux;
 - 13/11/2017 , "Aaron Swartz" , Guillaume de Wolf;
+- 16/11/2017 , "Balsamique" , Nicolas Hacala
