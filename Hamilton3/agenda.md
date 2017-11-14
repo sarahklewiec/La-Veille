@@ -1,13 +1,13 @@
 # Techno Watch:  Hamilton 3's Calendar
 
 Format to respect:   
-- date (dd month yyyy) , "Sujet" ,  Surname et Name, Link (if necessary)
+- date (dd month yyyy) , "Sujet" ,  __Surname et Name__, Link (if necessary)
 
 ## L'agenda des veilles à Hamilton 3
 
 ### November
 - Monday 13 November 2017: "*Guide de survie GITHUB*", __Eric Salla__ (Exemple)
-- Tuesday 14 November 2017: "SVG and intro to CSS animation", Flaviano Mucedda
+- Tuesday 14 November 2017: "SVG and intro to CSS animation", __Flaviano Mucedda__
 - Wednesday 15 November 2017:
 - Thursday 16 November 2017:
 - Friday 17 November 2017:
@@ -18,7 +18,7 @@ Format to respect:
 - Vriday 24 November 2017:
 - Monday 27 November 2017:
 - Tuesday 28 November 2017:
-- Wednesday 29 November 2017: "To be determined", Alexandre Ntougas 
+- Wednesday 29 November 2017: "To be determined", __Alexandre Ntougas__ 
 - Thursday 30 November 2017:
 
 ### December
