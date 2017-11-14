@@ -28,7 +28,7 @@ Format to respect:
 - Thursday 07 December 2017:
 - Vriday 08 December 2017:
 - Monday 11 December 2017:
-- Tuesday 12 December 2017:
+- Tuesday 12 December 2017: "No subject yet", __Sarah Lee Jara__
 - Wednesday 13 December 2017:
 - Thursday 14 December 2017:
 - Vriday 15 December 2017:
