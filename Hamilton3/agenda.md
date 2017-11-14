@@ -7,7 +7,7 @@ Format to respect:
 
 ### November
 - Tuesday 14 November 2017: "SVG and intro to CSS animation", __Flaviano Mucedda__
-- Wednesday 15 November 2017:
+- Wednesday 15 November 2017: "Google Chrome Web Inspector", __Bertrand Honner__
 - Thursday 16 November 2017:
 - Friday 17 November 2017: "The lifecycle of development, little introduction to Analysts and QA Testers", __Valérian Jaeken__
 - Monday 20 November 2017:
