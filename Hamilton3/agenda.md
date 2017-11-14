@@ -1,7 +1,7 @@
-# Veille: ordre de passage à Hamilton 3
+# Techno Watch:  Hamilton 3's Calendar
 
-Format à respecter:   
-- date (dd month yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
+Format to respect:   
+- date (dd month yyyy) , "Sujet" ,  Surname et Name, Link (if necessary)
 
 ## L'agenda des veilles à Hamilton 3
 
