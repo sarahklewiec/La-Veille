@@ -12,7 +12,7 @@ Format to respect:
 - Friday 17 November 2017: "The lifecycle of development, little introduction to Analysts and QA Testers", __Valérian Jaeken__
 - Monday 20 November 2017:
 - Tuesday 21 November 2017: "Copyright", __Laurent Hulstaert__
-- Wednesday 22 November 2017:"Habitica" __Maxime Collin__
+- Wednesday 22 November 2017:"" __Maxime Collin__
 - Thursday 23 November 2017:
 - Vriday 24 November 2017:
 - Monday 27 November 2017:
