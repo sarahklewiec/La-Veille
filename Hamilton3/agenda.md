@@ -12,7 +12,7 @@ Format to respect:
 - Friday 17 November 2017:
 - Monday 20 November 2017:
 - Tuesday 21 November 2017: "Copyright", __Laurent Hulstaert__
-- Wednesday 22 November 2017:
+- Wednesday 22 November 2017:"No idea for the moment but do that in english will be a good challenge :)" __Maxime Collin__
 - Thursday 23 November 2017:
 - Vriday 24 November 2017:
 - Monday 27 November 2017:
