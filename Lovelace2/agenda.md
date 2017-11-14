@@ -22,7 +22,7 @@ Format à respecter:
 
 - lundi 13/11/2017, "Introduction au SEO", Steve Gravy;
 
-- mardi 14/11/2017, "    ",    ;
+- mardi 14/11/2017, "Script, spend time to save time!", Marvin Louis;
 
 - mercredi 15/11/2017, "    ",    ;
 
