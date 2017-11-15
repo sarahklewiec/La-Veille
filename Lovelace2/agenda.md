@@ -24,7 +24,7 @@ Format à respecter:
 
 - mardi 14/11/2017, "Script, spend time to save time!", Marvin Louis;
 
-- mercredi 15/11/2017, "    ",    ;
+- mercredi 15/11/2017, "le Hachage  intro à la cryptographie  ",Jimmy Goossens    ;
 
 - jeudi 16/11/2017, "Progressive Web Apps : le pourquoi du comment du mobile immobile", Alexandre Plennevaux ;
 
