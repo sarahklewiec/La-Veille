@@ -48,7 +48,7 @@ Format à respecter:
 - Jeudi 16/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__ && "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
 - Vendredi 17/11/2017 "*Sujet à définir*", __Votre Nom__
 
-- Lundi 20/11/2017 "*Sujet à définir*", __Votre Nom__
+- Lundi 20/11/2017 "Bootstrap", __Marie Thielens__
 - Mardi 21/11/2017 "*Sujet à définir*", __Willem Heremans__
 - Mercredi 22/11/2017 "*Sujet à définir*", __Votre Nom__
 - Jeudi 23/11/2017 "*Sujet à définir*", __Votre Nom__
