@@ -8,5 +8,6 @@ Format à respecter:
 
 - 07/11/2017 , "La GitHub Attitude" , Alexandre Plennevaux;
 - 13/11/2017 , "Aaron Swartz" , Guillaume de Wolf;
-- 16/11/2017 , "Balsamique" , Nicolas Hacala
+- 16/11/2017 , "Balsamique" , Nicolas Hacala;
+- 17/11/2017 , "Emmet plugin", Nicolas Jamar;
 - 20/11/2017 , "Git" , Jonathan Dervaux;
