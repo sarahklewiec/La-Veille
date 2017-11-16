@@ -12,4 +12,4 @@ Format à respecter:
 - 17/11/2017 , "Emmet plugin", Nicolas Jamar;
 - 20/11/2017 , "Git" , Jonathan Dervaux;
 - 23/11/2017 , "Gimp" , Christophe Van Maercke;
-- 25/11/2017 , "Sélecteurs CSS", Featuring Weichuan Tran (aka Wesh) (Lovelace2)
+- 24/11/2017 , "Sélecteurs CSS", Featuring Weichuan Tran (aka Wesh) (Lovelace2)
