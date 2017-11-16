@@ -17,7 +17,7 @@ Format à respecter:
 - Vendredi 13/10/2017
 
 - Lundi 16/10/2017"*The case of Estonia*", __Elisa della Faille__
-- Mardi 17/10/2017 "*OneNote,OpenClassrooms,StackOverflow,etc.*", __Ali Armut__
+- Mardi 17/10/2017 "*OneNote,OpenClassrooms,StackOverflow,etc.*", __Cali Armut__
 - Mercredi 18/10/2017 "*«Nothing to hide», un documentaire sur la surveillance*", __Olga Konstantinova__
 - Jeudi 19/10/2017 "*Les chatBot*" , __Daniel De Vos__
 - Vendredi 20/10/2017"*Differentiating operating systems*", __Michael Bavier__
@@ -50,7 +50,7 @@ Format à respecter:
 
 - Lundi 20/11/2017 "Bootstrap", __Marie Thielens__
 - Mardi 21/11/2017 "*Sujet à définir*", __Willem Heremans__
-- Mercredi 22/11/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 22/11/2017 "*Sujet à définir*", __Cali Armut__
 - Jeudi 23/11/2017 "*Sujet à définir*", __Votre Nom__
 - Vendredi 24/11/2017 "*Player Tracking*", __Pedro Rodriguez__
 
