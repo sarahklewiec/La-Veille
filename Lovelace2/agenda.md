@@ -38,7 +38,7 @@ Format à respecter:
 
 - jeudi 23/11/2017, "    ",    ;
 
-- vendredi 24/11/2017, "     ",    ;
+- vendredi 24/11/2017, " Le svg animation technique css,javascript    ", Stéphane Dethy   ;
 
 - lundi 27/11/2017, " Le testeur dans l'ombre du developpement   ", Omar Aaiachi   ;
 
