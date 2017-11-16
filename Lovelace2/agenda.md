@@ -26,7 +26,7 @@ Format à respecter:
 
 - mercredi 15/11/2017, "le Hachage  intro à la cryptographie  ",Jimmy Goossens    ;
 
-- jeudi 16/11/2017, "Progressive Web Apps : le pourquoi du comment du mobile immobile", Alexandre Plennevaux ;
+- jeudi 16/11/2017, "Progressive Web Apps : le pourquoi du comment du mobile immobile", [résumé](https://github.com/becodeorg/Lovelace-promo-2/tree/master/Parcours/PWA%20-%20progressive%20web%20apps), Alexandre Plennevaux ;
 
 - vendredi 17/11/2017, "La création d'un projet et les relations à avoir avec un client", Kevin Flabat;
 
