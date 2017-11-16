@@ -11,3 +11,4 @@ Format à respecter:
 - 16/11/2017 , "Balsamique" , Nicolas Hacala;
 - 17/11/2017 , "Emmet plugin", Nicolas Jamar;
 - 20/11/2017 , "Git" , Jonathan Dervaux;
+- 25/11/2017 , "Sélecteurs CSS", Featuring Weichuan Tran (aka Wesh) (Lovelace2)
