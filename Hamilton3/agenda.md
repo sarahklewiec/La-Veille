@@ -18,7 +18,7 @@ Format to respect:
 - Monday 27 November 2017:
 - Tuesday 28 November 2017:
 - Wednesday 29 November 2017: "To be determined", __Alexandre Ntougas__ 
-- Thursday 30 November 2017:
+- Thursday 30 November 2017: "Basics on Photoshop and images editions", __Michael Tolis__
 
 ### December
 - Vriday 01 December 2017:
