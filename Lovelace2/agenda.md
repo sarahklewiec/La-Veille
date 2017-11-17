@@ -22,7 +22,7 @@ Format à respecter:
 
 - lundi 13/11/2017, "Introduction au SEO", Steve Gravy;
 
-- mardi 14/11/2017, "Script, spend time to save time!", Marvin Louis;
+- mardi 14/11/2017, "Scripts, spend time to save time!", Marvin Louis;
 
 - mercredi 15/11/2017, "le Hachage  intro à la cryptographie  ",Jimmy Goossens    ;
 
@@ -48,7 +48,7 @@ Format à respecter:
 
 - jeudi 30/11/2017, "    ",    ;
 
-- vendredi 01/12/2017, "   ",   ;
+- vendredi 01/12/2017, "Secure shell, a glimpse into the server world!", Marvin Louis;
 
 
 
