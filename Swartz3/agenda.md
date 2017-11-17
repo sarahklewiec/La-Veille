@@ -11,5 +11,7 @@ Format à respecter:
 - 16/11/2017 , "Balsamique" , Nicolas Hacala;
 - 17/11/2017 , "Emmet plugin", Nicolas Jamar;
 - 20/11/2017 , "Git" , Jonathan Dervaux;
+- 21/11/2017 , "Prendre soin de soi derrière son écran", Alixe Boumeridja 
 - 23/11/2017 , "Gimp" , Christophe Van Maercke;
 - 24/11/2017 , "Sélecteurs CSS", Featuring Weichuan Tran (aka Wesh) (Lovelace2)
+
