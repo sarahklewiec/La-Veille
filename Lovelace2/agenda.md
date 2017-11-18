@@ -30,7 +30,7 @@ Format à respecter:
 
 - vendredi 17/11/2017, "La création d'un projet et les relations à avoir avec un client", Kevin Flabat;
 
-- lundi 20/11/2017, "    ",    ;
+- lundi 20/11/2017, " Recherche sur google   ", Syl Alonsious    ;
 
 - mardi 21/11/2017, "    ",    ;
 
