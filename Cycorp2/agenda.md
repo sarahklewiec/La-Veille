@@ -45,13 +45,13 @@ Format à respecter:
 - Lundi 13/11/2017 "*Debuguer comme un Ninja*", __Aldebaran Desombergh__
 - Mardi 14/11/2017 "*NEOM*", __Pedro Rodriguez__
 - Mercredi 15/11/2017 "*Sujet OS*", __Micheal Bavier__
-- Jeudi 16/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__ && "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
+- Jeudi 16/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__ 
 - Vendredi 17/11/2017 "*Sujet à définir*", __Votre Nom__
 
-- Lundi 20/11/2017 "Bootstrap", __Marie Thielens__
+- Lundi 20/11/2017 "*Bootstrap*", __Marie Thielens__
 - Mardi 21/11/2017 "*Sujet à définir*", __Willem Heremans__
 - Mercredi 22/11/2017 "*Sujet à définir*", __Cali Armut__
-- Jeudi 23/11/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 23/11/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
 - Vendredi 24/11/2017 "*Player Tracking*", __Pedro Rodriguez__
 
 - Lundi 27/11/2017 "*le web en 2018*", __Saritas Akkad__
