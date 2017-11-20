@@ -14,4 +14,4 @@ Format à respecter:
 - 21/11/2017 , "Prendre soin de soi derrière son écran", Alixe Boumeridja 
 - 23/11/2017 , "Gimp" , Christophe Van Maercke;
 - 24/11/2017 , "Sélecteurs CSS", Featuring Weichuan Tran (aka Wesh) (Lovelace2)
-
+- 27/11/2017 , "SVG" , Kateryna Grygorko;
