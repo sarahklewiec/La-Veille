@@ -15,3 +15,4 @@ Format à respecter:
 - 23/11/2017 , "Gimp" , Christophe Van Maercke;
 - 24/11/2017 , "Sélecteurs CSS", Featuring Weichuan Tran (aka Wesh) (Lovelace2)
 - 27/11/2017 , "SVG" , Kateryna Grygorko;
+- 28/11/2017 , "Initiation a JavaScript" , Mickael Van Craenenbroeck;
