@@ -55,7 +55,37 @@ Format à respecter:
 - Vendredi 24/11/2017 "*Player Tracking*", __Pedro Rodriguez__
 
 - Lundi 27/11/2017 "*le web en 2018*", __Saritas Akkad__
-- Mardi 28/11/2017 "*Ionic Framework*", __Daniel De Vos__
+- Mardi 28/11/2017 "*Sujet à définir*", __Willem Heremans__
 - Mercredi 29/11/2017 "*Sujet à définir*", __Jonathan Caron__
 - Jeudi 30/11/2017 "*Sujet : React.js 101 !! *", __Ali Tuna AREL__
-- vendredi 01/12/2017 "*  *", __Mathieu Herbay
+- vendredi 01/12/2017 "*  *", __Mathieu Herbay__
+
+- Lundi 02/12/2017 "*Ionic Framework*", __Daniel De Vos__
+- Mardi 03/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 04/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 05/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 06/12/2017 "*Sujet à définir*", __Votre Nom__
+
+- Lundi 07/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 08/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 09/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 10/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 11/12/2017 "*Sujet à définir*", __Votre Nom__
+
+- Lundi 14/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 15/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 17/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 18/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 19/12/2017 "*Sujet à définir*", __Votre Nom__
+
+- Lundi 20/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 21/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 22/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 23/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 24/12/2017 "*Sujet à définir*", __Votre Nom__
+
+- Lundi 27/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 28/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 29/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 30/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 31/12/2017 "*Sujet à définir*", __Votre Nom__
