@@ -34,9 +34,9 @@ Format à respecter:
 
 - mardi 21/11/2017, "Formulaires en php(checkbox et autres)",Antoine Gjeloshaj;
 
-- mercredi 22/11/2017, "    ",    ;
+- mercredi 22/11/2017, "    ",  Illias  ;
 
-- jeudi 23/11/2017, "    ",    ;
+- jeudi 23/11/2017, "    ",  Valerian  ;
 
 - vendredi 24/11/2017, " Le svg animation technique css,javascript    ", Stéphane Dethy   ;
 
