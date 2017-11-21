@@ -58,6 +58,9 @@ Format à respecter:
 - Mardi 28/11/2017 "*Sujet à définir*", __Willem Heremans__
 - Mercredi 29/11/2017 "*Sujet à définir*", __Jonathan Caron__
 - Jeudi 30/11/2017 "*Sujet : React.js 101 !! *", __Ali Tuna AREL__
+
+### Novembre
+
 - vendredi 01/12/2017 "*  *", __Mathieu Herbay__
 
 - Lundi 04/12/2017 "*Ionic Framework*", __Daniel De Vos__
@@ -66,26 +69,26 @@ Format à respecter:
 - Jeudi 07/12/2017 "*Sujet à définir*", __Votre Nom__
 - vendredi 08/12/2017 "*Sujet à définir*", __Votre Nom__
 
-- Lundi 09/12/2017 "*Sujet à définir*", __Votre Nom__
-- Mardi 10/12/2017 "*Sujet à définir*", __Votre Nom__
-- Mercredi 11/12/2017 "*Sujet à définir*", __Votre Nom__
-- Jeudi 12/12/2017 "*Sujet à définir*", __Votre Nom__
-- vendredi 13/12/2017 "*Sujet à définir*", __Votre Nom__
+- Lundi 11/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 12/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 13/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 14/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 15/12/2017 "*Sujet à définir*", __Votre Nom__
 
-- Lundi 16/12/2017 "*Sujet à définir*", __Votre Nom__
-- Mardi 17/12/2017 "*Sujet à définir*", __Votre Nom__
-- Mercredi 18/12/2017 "*Sujet à définir*", __Votre Nom__
-- Jeudi 19/12/2017 "*Sujet à définir*", __Votre Nom__
-- vendredi 20/12/2017 "*Sujet à définir*", __Votre Nom__
+- Lundi 18/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 19/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 20/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 21/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 22/12/2017 "*Sujet à définir*", __Votre Nom__
 
-- Lundi 21/12/2017 "*Sujet à définir*", __Votre Nom__
-- Mardi 22/12/2017 "*Sujet à définir*", __Votre Nom__
-- Mercredi 23/12/2017 "*Sujet à définir*", __Votre Nom__
-- Jeudi 24/12/2017 "*Sujet à définir*", __Votre Nom__
-- vendredi 25/12/2017 "*Sujet à définir*", __Votre Nom__
+- Lundi 25/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 26/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 27/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 28/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 29/12/2017 "*Sujet à définir*", __Votre Nom__
 
-- Lundi 28/12/2017 "*Sujet à définir*", __Votre Nom__
-- Mardi 29/12/2017 "*Sujet à définir*", __Votre Nom__
-- Mercredi 30/12/2017 "*Sujet à définir*", __Votre Nom__
-- Jeudi 31/12/2017 "*Sujet à définir*", __Votre Nom__
-- vendredi 01/01/2017 "*Sujet à définir*", __Votre Nom__
+- Lundi 01/01/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 02/01/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 03/01/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 04/01/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 05/01/2017 "*Sujet à définir*", __Votre Nom__
