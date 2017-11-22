@@ -6,36 +6,6 @@ Format à respecter:
 ## L'agenda des veilles à Lovelace 2
 
 
-- date (01/11/2017) , "Expérience utilisateur UX" , Stéphane Dethy;
-
-- vendredi (03/11/2017) , "Les ecosystèmes", Trabelsi Mehdi ;
-
-- lundi 06/11/2017 , "     ",     ;
-
-- mardi 07/11/2017, "La portée des variables", Thomas Point;
-
-- mercredi 08/11/2017, "Content first et une approche du Responsive Design", Axel Fiolle;
-
-- jeudi 09/11/2017, "Expérience utilisateur UX", Stephane Dethy;
-
-- vendredi 10/11/2017, " self/static ", Caroline Bieuvelet ;
-
-- lundi 13/11/2017, "Introduction au SEO", Steve Gravy;
-
-- mardi 14/11/2017, "Scripts, spend time to save time!", Marvin Louis;
-
-- mercredi 15/11/2017, "le Hachage  intro à la cryptographie  ",Jimmy Goossens    ;
-
-- jeudi 16/11/2017, "Progressive Web Apps : le pourquoi du comment du mobile immobile", [résumé](https://github.com/becodeorg/Lovelace-promo-2/tree/master/Parcours/PWA%20-%20progressive%20web%20apps), Alexandre Plennevaux ;
-
-- vendredi 17/11/2017, "La création d'un projet et les relations à avoir avec un client", Kevin Flabat;
-
-- lundi 20/11/2017, " Recherche sur google   ", Syl Alonsious    ;
-
-- mardi 21/11/2017, "Formulaires en php(checkbox et autres)",Antoine Gjeloshaj;
-
-- mercredi 22/11/2017, "La virtualisation",  Illias  ;
-
 - jeudi 23/11/2017, "    ",  Valerian  ;
 
 - vendredi 24/11/2017, " Le svg animation technique css,javascript    ", Stéphane Dethy   ;
@@ -97,3 +67,33 @@ Format à respecter:
 - lundi 30/10/2017, "Sous système linux sous windows"Antoine Gjeloshaj, ;
 
 - mardi 31/10/2017, "Gérer une équipe et un projet: comment ça marche ?", Valerian Thomas;
+
+- date (01/11/2017) , "Expérience utilisateur UX" , Stéphane Dethy;
+
+- vendredi (03/11/2017) , "Les ecosystèmes", Trabelsi Mehdi ;
+
+- lundi 06/11/2017 , "     ",     ;
+
+- mardi 07/11/2017, "La portée des variables", Thomas Point;
+
+- mercredi 08/11/2017, "Content first et une approche du Responsive Design", Axel Fiolle;
+
+- jeudi 09/11/2017, "Expérience utilisateur UX", Stephane Dethy;
+
+- vendredi 10/11/2017, " self/static ", Caroline Bieuvelet ;
+
+- lundi 13/11/2017, "Introduction au SEO", Steve Gravy;
+
+- mardi 14/11/2017, "Scripts, spend time to save time!", Marvin Louis;
+
+- mercredi 15/11/2017, "le Hachage  intro à la cryptographie  ",Jimmy Goossens    ;
+
+- jeudi 16/11/2017, "Progressive Web Apps : le pourquoi du comment du mobile immobile", [résumé](https://github.com/becodeorg/Lovelace-promo-2/tree/master/Parcours/PWA%20-%20progressive%20web%20apps), Alexandre Plennevaux ;
+
+- vendredi 17/11/2017, "La création d'un projet et les relations à avoir avec un client", Kevin Flabat;
+
+- lundi 20/11/2017, " Recherche sur google   ", Syl Alonsious    ;
+
+- mardi 21/11/2017, "Formulaires en php(checkbox et autres)",Antoine Gjeloshaj;
+
+- mercredi 22/11/2017, "La virtualisation",  Ilias  ;
