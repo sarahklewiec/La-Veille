@@ -50,7 +50,7 @@ Format à respecter:
 
 - Lundi 20/11/2017 "*Bootstrap*", __Marie Thielens__
 - Mardi 21/11/2017 "*Sujet à définir*", __Willem Heremans__
-- Mercredi 22/11/2017 "*Sujet à définir*", __Cali Armut__
+- Mercredi 22/11/2017 "*Problems solving*", __Cali Armut__
 - Jeudi 23/11/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
 - Vendredi 24/11/2017 "*Player Tracking*", __Pedro Rodriguez__
 
