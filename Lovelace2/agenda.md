@@ -34,7 +34,7 @@ Format à respecter:
 
 - mardi 21/11/2017, "Formulaires en php(checkbox et autres)",Antoine Gjeloshaj;
 
-- mercredi 22/11/2017, "    ",  Illias  ;
+- mercredi 22/11/2017, "La virtualisation",  Illias  ;
 
 - jeudi 23/11/2017, "    ",  Valerian  ;
 
