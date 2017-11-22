@@ -24,7 +24,7 @@ Format to respect:
 - Vriday 01 December 2017:
 - Monday 04 December 2017:
 - Tuesday 05 December 2017:
-- Wednesday 06 December 2017:"jQuery",__Imad Youssoufi__
+- Wednesday 06 December 2017:"No subject yet",__Imad Youssoufi__
 - Thursday 07 December 2017:
 - Vriday 08 December 2017:
 - Monday 11 December 2017:
