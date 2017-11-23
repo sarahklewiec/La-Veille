@@ -51,7 +51,7 @@ Format à respecter:
 - Lundi 20/11/2017 "*Bootstrap*", __Marie Thielens__
 - Mardi 21/11/2017 "*Sujet à définir*", __Willem Heremans__
 - Mercredi 22/11/2017 "*Problem solving*", __Cali Armut__
-- Jeudi 23/11/2017 
+- Jeudi 23/11/2017 "*Sujet à définir*", __Votre Nom__
 - Vendredi 24/11/2017 "*Player Tracking*", __Pedro Rodriguez__
 
 - Lundi 27/11/2017 "*le web en 2018*", __Saritas Akkad__
