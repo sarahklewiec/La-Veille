@@ -51,7 +51,7 @@ Format à respecter:
 - Lundi 20/11/2017 "*Bootstrap*", __Marie Thielens__
 - Mardi 21/11/2017 "*Sujet à définir*", __Willem Heremans__
 - Mercredi 22/11/2017 "*Problem solving*", __Cali Armut__
-- Jeudi 23/11/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
+- Jeudi 23/11/2017 
 - Vendredi 24/11/2017 "*Player Tracking*", __Pedro Rodriguez__
 
 - Lundi 27/11/2017 "*le web en 2018*", __Saritas Akkad__
@@ -64,12 +64,12 @@ Format à respecter:
 - vendredi 01/12/2017 "*  *", __Mathieu Herbay__
 
 - Lundi 04/12/2017 "*Ionic Framework*", __Daniel De Vos__
-- Mardi 05/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 05/12/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
 - Mercredi 06/12/2017 "*Sujet à définir*", __Votre Nom__
 - Jeudi 07/12/2017 "*Sujet à définir*", __Votre Nom__
 - vendredi 08/12/2017 "*Sujet à définir*", __Votre Nom__
 
-- Lundi 11/12/2017 "*Sujet à définir*", __Votre Nom__
+- Lundi 11/12/2017 "*Cryptoparty*", __Saadia Sahraoui Brahim__
 - Mardi 12/12/2017 "*Sujet à définir*", __Votre Nom__
 - Mercredi 13/12/2017 "*Sujet à définir*", __Votre Nom__
 - Jeudi 14/12/2017 "*Sujet à définir*", __Votre Nom__
