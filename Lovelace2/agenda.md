@@ -10,11 +10,9 @@ Format à respecter:
 
 - vendredi 24/11/2017, " Le svg animation technique css,javascript    ", Stéphane Dethy   ;
 
-- lundi 27/11/2017, " Le testeur dans l'ombre du developpement   ", Omar Aaiachi   ;
+- lundi 27/11/2017, " Le testeur dans l'ombre du develo    ;
 
-- mardi 28/11/2017, "    ",    ;
-
-- mercredi 29/11/2017, "    ",   ;
+- mercredi 29/11/2017, " Le svg animation technique css,javascript   ",  Stéphane Dethy ;
 
 - jeudi 30/11/2017, "    ",    ;
 
@@ -48,7 +46,7 @@ Format à respecter:
 
 - mardi 17/10/2017, " Les Flexbox, c'est la vie!" , Marie-Ange Bouchat & Steve Gravy;
 
-- mercredi 18/10/2017, "La  Méthodologie Agile et Scrum", Jimmy Goossens;
+- mercredi 18/10/2017, "La  Méthodologie Agile et Scrum", Jimmy Goossens;é
 
 - jeudi 19/10/2017, "L'UML", Alexandre;
 
