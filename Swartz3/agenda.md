@@ -17,3 +17,4 @@ Format à respecter:
 - 24/11/2017 , "Sélecteurs CSS", Featuring Weichuan Tran (aka Wesh) (Lovelace2)
 - 27/11/2017 , "SVG" , Kateryna Grygorko;
 - 28/11/2017 , "Initiation au JavaScript" , Mickael Van Craenenbroeck;
+- 29/11/2017 , "Live coding d'une nav Flexbox" , Corentin Noirot
