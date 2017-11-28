@@ -18,3 +18,4 @@ Format à respecter:
 - 27/11/2017 , "SVG" , Kateryna Grygorko;
 - 28/11/2017 , "Initiation au JavaScript" , Mickael Van Craenenbroeck;
 - 29/11/2017 , "Live coding d'une nav Flexbox" , Corentin Noirot
+- 30/11/2017, "Grid-template-area", Nicolas Hacala
