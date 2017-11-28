@@ -14,7 +14,7 @@ Format à respecter:
 
 - mercredi 29/11/2017, " Le svg animation technique css,javascript   ",  Stéphane Dethy ;
 
-- jeudi 30/11/2017, "    ",    ;
+- jeudi 30/11/2017, "Style à l'infini avec SASS SCSS :D    ", Kevin Flabat    ;
 
 - vendredi 01/12/2017, "Secure shell, a glimpse into the server world!", Marvin Louis;
 
