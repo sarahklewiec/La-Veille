@@ -5,13 +5,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-
-- jeudi 23/11/2017, "    ",  Valerian  ;
-
-- vendredi 24/11/2017, " Le svg animation technique css,javascript    ", Stéphane Dethy   ;
-
-- lundi 27/11/2017, " Le testeur dans l'ombre du develo    ;
-
 - mercredi 29/11/2017, " Le svg animation technique css,javascript   ",  Stéphane Dethy ;
 
 - jeudi 30/11/2017, "Style à l'infini avec SASS SCSS :D    ", Kevin²    ;
@@ -95,3 +88,8 @@ Format à respecter:
 - mardi 21/11/2017, "Formulaires en php(checkbox et autres)",Antoine Gjeloshaj;
 
 - mercredi 22/11/2017, "La virtualisation",  Ilias  ;
+- jeudi 23/11/2017, "    ",  Valerian  ;
+
+- vendredi 24/11/2017, " Le svg animation technique css,javascript    ", Stéphane Dethy   ;
+
+- lundi 27/11/2017, " Le testeur dans l'ombre du developpeur", Omar    ;
