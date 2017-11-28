@@ -56,7 +56,7 @@ Format à respecter:
 
 - Lundi 27/11/2017 "*le web en 2018*", __Saritas Akkad__
 - Mardi 28/11/2017 "*Ligne de commandes*", __Willem Heremans__
-- Mercredi 29/11/2017 "*Sujet à définir*", __Jonathan Caron__
+- Mercredi 29/11/2017 "*Lazy Line Painter (JS)*", __Jonathan Caron__
 - Jeudi 30/11/2017 "*Sujet : React.js 101 !! *", __Ali Tuna AREL__
 
 ### Decembre
