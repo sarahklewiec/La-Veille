@@ -18,10 +18,10 @@ Format to respect:
 - Monday 27 November 2017:
 - Tuesday 28 November 2017:
 - Wednesday 29 November 2017: "CMS", __Alexandre Ntougas__ 
-- Thursday 30 November 2017: "Basics on Photoshop and images editions", __Michael Tolis__
+- Thursday 30 November 2017: 
 
 ### December
-- Vriday 01 December 2017:
+- Vriday 01 December 2017:"Basics on Photoshop and images editions", __Michael Tolis__
 - Monday 04 December 2017:
 - Tuesday 05 December 2017:
 - Wednesday 06 December 2017:"No subject yet",__Imad Youssoufi__
