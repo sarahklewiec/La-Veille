@@ -93,3 +93,56 @@ Format à respecter:
 - vendredi 24/11/2017, " Le svg animation technique css,javascript    ", Stéphane Dethy   ;
 
 - lundi 27/11/2017, " Le testeur dans l'ombre du developpeur", Omar    ;
+
+- mardi 28/11/2017,"""";
+
+-mercredi 29/11/2017,"""";
+
+
+-jeudi 30/11/2017,"""";
+
+
+-vendredi 01/12/2017," Ce que GitKraken peut faire pour vous. ""Nicolas B";
+
+-lundi 04/12/2017,"""";
+
+
+-mardi 05/12/2017,"""";
+
+
+-mercredi 06/12/2017,"""";
+
+-jeudi 07/12/2017,"""";
+
+
+-vendredi 08/12/2017,"""";
+
+
+-lundi 11/12/2017,"""";
+
+
+-mardi 12/12/2017,"""";
+
+
+-mercredi 13/12/2017,"""";
+
+
+-jeudi 14/12/2017,"""";
+
+
+-vendredi 15/12/2017,"""";
+
+-lundi 18/12/2017,"""";
+
+-mardi 19/12/2017,"""";
+
+-mercredi 20/12/2017,"""";
+
+-jeudi 21/12/2017,"""";
+
+-vendredi 22/12/2017,"""";
+
+## Période de noêl.
+
+
+
