@@ -11,7 +11,7 @@ Format à respecter:
 
 - vendredi 01/12/2017, "Secure shell, a glimpse into the server world!", Marvin Louis;
 
-
+- lundi 04/12/2017, "Ce que Gitkraken peut faire pour vous !", Nicolas Belpois;
 
 ## Archive
 - jeudi 28/09/2017, "GitHub", Alex;
@@ -96,53 +96,7 @@ Format à respecter:
 
 - mardi 28/11/2017,"""";
 
--mercredi 29/11/2017,"""";
 
-
--jeudi 30/11/2017,"""";
-
-
--vendredi 01/12/2017," Ce que GitKraken peut faire pour vous. ""Nicolas B";
-
--lundi 04/12/2017,"""";
-
-
--mardi 05/12/2017,"""";
-
-
--mercredi 06/12/2017,"""";
-
--jeudi 07/12/2017,"""";
-
-
--vendredi 08/12/2017,"""";
-
-
--lundi 11/12/2017,"""";
-
-
--mardi 12/12/2017,"""";
-
-
--mercredi 13/12/2017,"""";
-
-
--jeudi 14/12/2017,"""";
-
-
--vendredi 15/12/2017,"""";
-
--lundi 18/12/2017,"""";
-
--mardi 19/12/2017,"""";
-
--mercredi 20/12/2017,"""";
-
--jeudi 21/12/2017,"""";
-
--vendredi 22/12/2017,"""";
-
-## Période de noêl.
 
 
 
