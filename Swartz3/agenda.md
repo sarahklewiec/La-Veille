@@ -12,10 +12,11 @@ Format à respecter:
 - 17/11/2017 , "Emmet plugin", Nicolas Jamar;
 - 20/11/2017 , "Git" , Jonathan Dervaux;
 - 21/11/2017 , "Prendre soin de soi derrière son écran", Alixe Boumeridja 
-- 22/11/2017, "Flex en css", Marina Shvanova
+- 22/11/2017 , "Flex en css", Marina Shvanova
 - 23/11/2017 , "Gimp" , Christophe Van Maercke;
 - 24/11/2017 , "Sélecteurs CSS", Featuring Weichuan Tran (aka Wesh) (Lovelace2)
 - 27/11/2017 , "SVG" , Kateryna Grygorko;
 - 28/11/2017 , "Initiation au JavaScript" , Mickael Van Craenenbroeck;
 - 29/11/2017 , "Live coding d'une nav Flexbox" , Corentin Noirot
-- 30/11/2017, "Grid-template-area", Nicolas Hacala
+- 30/11/2017 , "Grid-template-area", Nicolas Hacala
+- 01/12/2017 , "Animation CSS" , Guillaume de Wolf
