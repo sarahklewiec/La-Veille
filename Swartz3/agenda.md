@@ -20,3 +20,4 @@ Format à respecter:
 - 29/11/2017 , "Live coding d'une nav Flexbox" , Corentin Noirot
 - 30/11/2017 , "Grid-template-area", Nicolas Hacala
 - 01/12/2017 , "Animation CSS" , Guillaume de Wolf
+- 04/12/2017 , "Sass", Marina Shvanova
