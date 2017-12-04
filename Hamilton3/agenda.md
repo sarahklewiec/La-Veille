@@ -23,7 +23,7 @@ Format to respect:
 ### December
 - Vriday 01 December 2017:"Basics on Photoshop and images editions", __Michael Tolis__
 - Monday 04 December 2017:
-- Tuesday 05 December 2017:
+- Tuesday 05 December 2017:"Search Engine Optimization",__Jimmy Wynendaele__
 - Wednesday 06 December 2017:"Pixels",__Imad Youssoufi__
 - Thursday 07 December 2017:
 - Vriday 08 December 2017:
