@@ -15,7 +15,9 @@ Format à respecter:
 
 - mardi 05/12/2017,
 
-- mercredi 06/12/2017, "Encapsuler une App avec Cordova", Axel Fiolle;
+- mercredi 06/12/2017, 
+
+- jeudi 07/12/2017, "Encapsuler une App avec Cordova", Axel Fiolle;
 
 ## Archive
 - jeudi 28/09/2017, "GitHub", Alex;
