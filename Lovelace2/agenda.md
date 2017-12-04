@@ -13,6 +13,10 @@ Format à respecter:
 
 - lundi 04/12/2017, "Ce que Gitkraken peut faire pour vous !", Nicolas Belpois;
 
+- mardi 05/12/2017,
+
+- mercredi 06/12/2017, "Encapsuler une App avec Cordova", Axel Fiolle;
+
 ## Archive
 - jeudi 28/09/2017, "GitHub", Alex;
 - lundi 2/10/2017 "UX design", Axel fiolle
