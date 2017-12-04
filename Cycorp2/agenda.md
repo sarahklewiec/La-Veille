@@ -61,7 +61,7 @@ Format à respecter:
 
 ### Decembre
 
-- vendredi 01/12/2017 "*  *", __Mathieu Herbay__
+- vendredi 01/12/2017 "*Sophia*", __Mathieu Herbay__
 
 - Lundi 04/12/2017 "*Ionic Framework*", __Daniel De Vos__
 - Mardi 05/12/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
