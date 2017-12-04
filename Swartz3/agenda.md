@@ -23,3 +23,4 @@ Format à respecter:
 - 04/12/2017 , "Sass", Marina Shvanova
 - 05/12/2017 , "La Veille de Noël", Kateryna Grygorko --> Brainstorming : quel thème ? Quel plan d'attaque ?
 - 06/12/2017 , "Tweet Deck", Maxime Delchambre
+- 11/12/2017 , "Image Overlay", Olivier NSHIMIYUMUKIZA.
