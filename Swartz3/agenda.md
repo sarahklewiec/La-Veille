@@ -21,3 +21,4 @@ Format à respecter:
 - 30/11/2017 , "Grid-template-area", Nicolas Hacala
 - 01/12/2017 , "Animation CSS" , Guillaume de Wolf
 - 04/12/2017 , "Sass", Marina Shvanova
+- 06/12/2017 , "Tweet Deck", Maxime Delchambre
