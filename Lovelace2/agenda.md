@@ -29,7 +29,7 @@ Format à respecter:
 
 - jeudi 14/12/2017,  
 
-- vendredi 15/12/2017,  
+- vendredi 15/12/2017,  XYZ - De la pensée à l'outil - Vincent Nassaux
 
 - lundi 18/12/2017,  
 
