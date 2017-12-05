@@ -64,8 +64,8 @@ Format à respecter:
 - vendredi 01/12/2017 "*Sophia*", __Mathieu Herbay__
 
 - Lundi 04/12/2017 "*Ionic Framework*", __Daniel De Vos__
-- Mardi 05/12/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
-- Mercredi 06/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 05/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 06/12/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
 - Jeudi 07/12/2017 "*Sujet à définir*", __Votre Nom__
 - vendredi 08/12/2017 "*Sujet à définir*", __Votre Nom__
 
