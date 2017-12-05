@@ -21,7 +21,7 @@ Format à respecter:
 
 - vendredi 08/12/2017,  
 
-- lundi 11/12/2017,  
+- lundi 11/12/2017,gerer ses instances node avec pm2 et autres, AGJ  
 
 - mardi 12/12/2017,  
 
