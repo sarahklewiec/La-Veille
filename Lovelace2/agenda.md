@@ -15,7 +15,7 @@ Format à respecter:
 
 - mardi 05/12/2017,
 
-- mercredi 06/12/2017, 
+- mercredi 06/12/2017,
 
 - jeudi 07/12/2017, "Encapsuler une App avec Cordova", Axel Fiolle;  
 
@@ -37,9 +37,9 @@ Format à respecter:
 
 - mercredi 20/12/2017,  
 
-- jeudi 21/12/2017,  
+- jeudi 21/12/2017,  "je ne sais pas encore", Ilias
 
-- vendredi 22/12/2017, 
+- vendredi 22/12/2017,
 
 
 ## Archive
@@ -124,8 +124,3 @@ Format à respecter:
 - lundi 27/11/2017, " Le testeur dans l'ombre du developpeur", Omar    ;
 
 - mardi 28/11/2017,"""";
-
-
-
-
-
