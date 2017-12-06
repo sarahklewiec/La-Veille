@@ -66,7 +66,7 @@ Format à respecter:
 - Lundi 04/12/2017 "*Ionic Framework*", __Daniel De Vos__
 - Mardi 05/12/2017 "*Sujet à définir*", __Votre Nom__
 - Mercredi 06/12/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
-- Jeudi 07/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 07/12/2017 "*Manipuler le DOM*", __Cali__
 - vendredi 08/12/2017 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 11/12/2017 "*Cryptoparty*", __Saadia Sahraoui Brahim__
