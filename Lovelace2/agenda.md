@@ -15,21 +15,21 @@ Format à respecter:
 
 - mardi 05/12/2017,
 
-- mercredi 06/12/2017, 
+- mercredi 06/12/2017,
 
 - jeudi 07/12/2017, "Encapsuler une App avec Cordova", Axel Fiolle;  
 
-- vendredi 08/12/2017,  
+- vendredi 08/12/2017, "Que représente le Machine Learning ?", Gaëtan Ribonnet;
 
-- lundi 11/12/2017,  
+- lundi 11/12/2017,gerer ses instances node avec pm2 et autres, AGJ  
 
 - mardi 12/12/2017,  
 
-- mercredi 13/12/2017,  
+- mercredi 13/12/2017, "The lean startup methodology" , Mutwakil Mo.
 
 - jeudi 14/12/2017,  
 
-- vendredi 15/12/2017,  
+- vendredi 15/12/2017,  XYZ - De la pensée à l'outil - Vincent Nassaux
 
 - lundi 18/12/2017,  
 
@@ -37,9 +37,9 @@ Format à respecter:
 
 - mercredi 20/12/2017,  
 
-- jeudi 21/12/2017,  
+- jeudi 21/12/2017,  "je ne sais pas encore", Ilias
 
-- vendredi 22/12/2017, 
+- vendredi 22/12/2017,"Le DDOS" Trabelsi mehdi
 
 
 ## Archive
@@ -124,8 +124,3 @@ Format à respecter:
 - lundi 27/11/2017, " Le testeur dans l'ombre du developpeur", Omar    ;
 
 - mardi 28/11/2017,"""";
-
-
-
-
-

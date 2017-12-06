@@ -16,7 +16,7 @@ Via le terminal :
 
 1. Crée un dossier sur ton disque local qui s'appellera (par exemple) "/home/user/becode/veille"   
 `mkdir /home/user/becode/veille`  
-1. va dedans: `cd /home/user/becode/veille`
+1. Va dedans : `cd /home/user/becode/veille`
 1. Clone ce repo:   `git clone https://github.com/becodeorg/La-Veille.git`
 1. Déplace toi dans le dossier 'La-Veille'  
 1. Mets à jour ta copie locale avec les mises à jour des autres:   `git pull`  
@@ -44,11 +44,16 @@ Voici quelques suggestions:
 
 ## Suis les comptes twitter suivants:
 - [Smashing Magazine](https://twitter.com/smashingmag)
+- [The Practical Dev](https://twitter.com/ThePracticalDev)
+- [Envavo Tuts+ Code](https://twitter.com/TutsPlusCode)
+- [TEEKeasy](https://twitter.com/TEEK_easy)
 - [Sara Soueidan](https://twitter.com/SaraSoueidan)
 - [Stephanie Walter](https://twitter.com/WalterStephanie)
 - [Christian Heilmann](https://twitter.com/codepo8)
+- [Raphaël Goetter](https://twitter.com/goetter)
 - [Teddy](https://twitter.com/teddykishi)
 - [Alexandre](https://twitter.com/pixeline)
+- [Michaël Pitz](https://twitter.com/WebdevPitz)
 
 
 ## Sujets potentiels 
