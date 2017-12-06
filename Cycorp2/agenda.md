@@ -70,7 +70,7 @@ Format à respecter:
 - vendredi 08/12/2017 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 11/12/2017 "*Cryptoparty*", __Saadia Sahraoui Brahim__
-- Mardi 12/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mardi 12/12/2017 "*Sujet à définir*", __Elisa della Faille__
 - Mercredi 13/12/2017 "*Sujet à définir*", __Votre Nom__
 - Jeudi 14/12/2017 "*Sujet à définir*", __Votre Nom__
 - vendredi 15/12/2017 "*Sujet à définir*", __Votre Nom__
