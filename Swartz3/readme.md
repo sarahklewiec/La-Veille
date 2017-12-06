@@ -44,11 +44,14 @@ Voici quelques suggestions:
 
 ## Suis les comptes twitter suivants:
 - [Smashing Magazine](https://twitter.com/smashingmag)
+- [The Practical Dev](https://twitter.com/ThePracticalDev)
 - [Sara Soueidan](https://twitter.com/SaraSoueidan)
 - [Stephanie Walter](https://twitter.com/WalterStephanie)
 - [Christian Heilmann](https://twitter.com/codepo8)
+- [Raphaël Goetter](https://twitter.com/goetter)
 - [Teddy](https://twitter.com/teddykishi)
 - [Alexandre](https://twitter.com/pixeline)
+- [Michaël Pitz](https://twitter.com/WebdevPitz)
 
 
 ## Sujets potentiels 
