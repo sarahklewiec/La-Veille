@@ -19,7 +19,7 @@ Format à respecter:
 
 - jeudi 07/12/2017, "Encapsuler une App avec Cordova", Axel Fiolle;  
 
-- vendredi 08/12/2017, "Les Frameworks & Librairies Javascript", Gaëtan Ribonnet;
+- vendredi 08/12/2017, "Que représente le Machine Learning ?", Gaëtan Ribonnet;
 
 - lundi 11/12/2017,gerer ses instances node avec pm2 et autres, AGJ  
 
