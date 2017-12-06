@@ -25,7 +25,7 @@ Format à respecter:
 
 - mardi 12/12/2017,  
 
-- mercredi 13/12/2017,  
+- mercredi 13/12/2017, "The lean startup methodology" , Mutwakil Mo.
 
 - jeudi 14/12/2017,  
 
