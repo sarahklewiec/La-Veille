@@ -67,7 +67,7 @@ Format à respecter:
 - Mardi 05/12/2017 "*Sujet à définir*", __Votre Nom__
 - Mercredi 06/12/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
 - Jeudi 07/12/2017 "*Manipuler le DOM*", __Cali__
-- vendredi 08/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 08/12/2017 "*WORDPRESS BABY*", __Aldebaran Desombergh__
 
 - Lundi 11/12/2017 "*Cryptoparty*", __Saadia Sahraoui Brahim__
 - Mardi 12/12/2017 "*Sujet à définir*", __Elisa della Faille__
