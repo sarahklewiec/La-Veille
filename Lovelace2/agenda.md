@@ -9,7 +9,7 @@ Format à respecter:
 
 - jeudi 30/11/2017, "Style à l'infini avec SASS SCSS :D    ", Kevin²    ;
 
-- vendredi 01/12/2017, "Secure shell, a glimpse into the server world!", Marvin Louis;
+- vendredi 01/12/2017, "Secure shell, a glimpse into the server world!", Marvin LOUIS;
 
 - lundi 04/12/2017, "Ce que Gitkraken peut faire pour vous !", Nicolas Belpois;
 
@@ -27,7 +27,7 @@ Format à respecter:
 
 - mercredi 13/12/2017, "The lean startup methodology" , Mutwakil Mo.
 
-- jeudi 14/12/2017,  
+- jeudi 14/12/2017, "The terminal, is it still scary?" , Marvin LOUIS;
 
 - vendredi 15/12/2017,  XYZ - De la pensée à l'outil - Vincent Nassaux
 
