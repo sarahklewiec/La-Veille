@@ -45,7 +45,7 @@ Format à respecter:
 - Lundi 13/11/2017 "*Debuguer comme un Ninja*", __Aldebaran Desombergh__
 - Mardi 14/11/2017 "*NEOM*", __Pedro Rodriguez__
 - Mercredi 15/11/2017 "*Sujet OS*", __Micheal Bavier__
-- Jeudi 16/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__ 
+- Jeudi 16/11/2017 "*Introduction au Dark Web*", __Halil Ibrahim Gürbüz__
 - Vendredi 17/11/2017 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 20/11/2017 "*Bootstrap*", __Marie Thielens__
@@ -71,7 +71,7 @@ Format à respecter:
 
 - Lundi 11/12/2017 "*Cryptoparty*", __Saadia Sahraoui Brahim__
 - Mardi 12/12/2017 "*Sujet à définir*", __Elisa della Faille__
-- Mercredi 13/12/2017 "*Sujet à définir*", __Votre Nom__
+- Mercredi 13/12/2017 "*Votre éditeur de texte peut être votre IDE*", __Thomas Geenen__
 - Jeudi 14/12/2017 "*Sujet à définir*", __Votre Nom__
 - vendredi 15/12/2017 "*Sujet à définir*", __Votre Nom__
 
