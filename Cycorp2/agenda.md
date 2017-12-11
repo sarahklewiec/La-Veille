@@ -70,7 +70,7 @@ Format à respecter:
 - vendredi 08/12/2017 "*WORDPRESS BABY*", __Aldebaran Desombergh__
 
 - Lundi 11/12/2017 "*Cryptoparty*", __Saadia Sahraoui Brahim__
-- Mardi 12/12/2017 "*Sujet à définir*", __Elisa della Faille__
+- Mardi 12/12/2017 "*The technology behind Bitcoin, an introduction to blockchain*", __Elisa della Faille__
 - Mercredi 13/12/2017 "*Votre éditeur de texte peut être votre IDE*", __Thomas Geenen__
 - Jeudi 14/12/2017 "*Sujet à définir*", __Mourad El Bouâananii__
 - vendredi 15/12/2017 "*Sujet à définir*", __Votre Nom__
