@@ -73,7 +73,7 @@ Format à respecter:
 - Mardi 12/12/2017 "*The technology behind Bitcoin, an introduction to blockchain*", __Elisa della Faille__
 - Mercredi 13/12/2017 "*Votre éditeur de texte peut être votre IDE*", __Thomas Geenen__
 - Jeudi 14/12/2017 "*Sujet à définir*", __Mourad El Bouâananii__
-- vendredi 15/12/2017 "*Sujet à définir*", __Votre Nom__
+- vendredi 15/12/2017 "*micro:bit*", __Marie__
 
 - Lundi 18/12/2017 "*Sujet à définir*", __Votre Nom__
 - Mardi 19/12/2017 "*Sujet à définir*", __Votre Nom__
