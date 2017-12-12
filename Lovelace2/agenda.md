@@ -25,7 +25,7 @@ Format à respecter:
 
 - mardi 12/12/2017,  
 
-- mercredi 13/12/2017, "The lean startup methodology" , Mutwakil Mo.
+- mercredi 13/12/2017, 
 
 - jeudi 14/12/2017, "The terminal, is it still scary?" , Marvin LOUIS;
 
@@ -33,9 +33,9 @@ Format à respecter:
 
 - lundi 18/12/2017,  
 
-- mardi 19/12/2017,  
+- mardi 19/12/2017,
 
-- mercredi 20/12/2017,  
+- mercredi 20/12/2017,    "Demo day" , Mutwakil Mo.
 
 - jeudi 21/12/2017,  "je ne sais pas encore", Ilias
 
