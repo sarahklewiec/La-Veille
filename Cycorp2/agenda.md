@@ -78,7 +78,7 @@ Format à respecter:
 - Lundi 18/12/2017 "*Sujet à définir*", __Votre Nom__
 - Mardi 19/12/2017 "*Sujet à définir*", __Votre Nom__
 - Mercredi 20/12/2017 "*Sujet à définir*", __Votre Nom__
-- Jeudi 21/12/2017 "*Sujet à définir*", __Votre Nom__
+- Jeudi 21/12/2017 "*Sujet à définir*", __Saritas Akkad__
 - vendredi 22/12/2017 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 25/12/2017 "*Sujet à définir*", __Votre Nom__
