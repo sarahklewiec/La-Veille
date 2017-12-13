@@ -27,13 +27,13 @@ Format à respecter:
 
 - mercredi 13/12/2017, 
 
-- jeudi 14/12/2017, "The terminal, is it still scary?" , Marvin LOUIS;
+- jeudi 14/12/2017,
 
 - vendredi 15/12/2017,  XYZ - De la pensée à l'outil - Vincent Nassaux
 
-- lundi 18/12/2017,  
+- lundi 18/12/2017,   
 
-- mardi 19/12/2017,
+- mardi 19/12/2017, "The terminal, is it still scary?" , Marvin LOUIS;
 
 - mercredi 20/12/2017,    "Demo day" , Mutwakil Mo.
 
