@@ -24,7 +24,7 @@ Format à respecter:
 - 05/12/2017 , "La Veille de Noël", Kateryna Grygorko --> Brainstorming : quel thème ? Quel plan d'attaque ?
 - 06/12/2017 , "Tweet Deck", Maxime Delchambre
 - 11/12/2017 , "Image Overlay", Olivier NSHIMIYUMUKIZA.
-- 12/12/2017 ,
+- 12/12/2017 , "Animation Sprite CSS" Guillaume de Wolf
 - 13/12/2017 ,
-- 14/12/2017 ,
+- 14/12/2017 , "Content Choregraphy" Glenn Carroy
 - 15/12/2017 , "Web documentaire babel", Dervaux Jonathan
