@@ -87,8 +87,8 @@ Format à respecter:
 - Jeudi 28/12/2017 "*Sujet à définir*", __Votre Nom__
 - vendredi 29/12/2017 "*Sujet à définir*", __Votre Nom__
 
-- Lundi 01/01/2017 "*Sujet à définir*", __Votre Nom__
-- Mardi 02/01/2017 "*Sujet à définir*", __Votre Nom__
-- Mercredi 03/01/2017 "*Sujet à définir*", __Votre Nom__
-- Jeudi 04/01/2017 "*Sujet à définir*", __Votre Nom__
-- vendredi 05/01/2017 "*Sujet à définir*", __Votre Nom__
+- Lundi 01/01/2018 "*Comment gérer la geule de bois*", __Daniel De Vos__
+- Mardi 02/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mercredi 03/01/2018 "*Sujet à définir*", __Votre Nom__
+- Jeudi 04/01/2018 "*Sujet à définir*", __Votre Nom__
+- vendredi 05/01/2018 "*Sujet à définir*", __Votre Nom__
