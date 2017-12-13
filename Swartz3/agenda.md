@@ -25,6 +25,6 @@ Format à respecter:
 - 06/12/2017 , "Tweet Deck", Maxime Delchambre
 - 11/12/2017 , "Image Overlay", Olivier NSHIMIYUMUKIZA.
 - 12/12/2017 , "Animation Sprite CSS" Guillaume de Wolf
-- 13/12/2017 ,
+- 13/12/2017 , "PWA avec UpUp", Christophe Van Maercke et Naël Ait Abdallah (speakerine);
 - 14/12/2017 , "Content Choregraphy" Glenn Carroy
 - 15/12/2017 , "Web documentaire babel", Dervaux Jonathan
