@@ -32,4 +32,8 @@ Format to respect:
 - Wednesday 13 December 2017:
 - Thursday 14 December 2017:
 - Friday 15 December 2017:
-
+- Monday 18 December 2017:
+- Tuesday 19 December 2017: "Parallax effect", __Tsinxias Zhang__
+- Wednesday 20 December 2017:
+- Thursday 21 December 2017:
+- Friday 22 December 2017:
