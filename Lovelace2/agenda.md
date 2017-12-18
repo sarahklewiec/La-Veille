@@ -31,7 +31,7 @@ Format à respecter:
 
 - vendredi 15/12/2017,  XYZ - De la pensée à l'outil - Vincent Nassaux
 
-- lundi 18/12/2017,   
+- lundi 18/12/2017, "Asymmetric encryption"  , Antoine Gjeloshaj
 
 - mardi 19/12/2017, "The terminal, is it still scary?" , Marvin LOUIS;
 
