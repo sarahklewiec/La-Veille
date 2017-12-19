@@ -28,3 +28,4 @@ Format à respecter:
 - 13/12/2017 , "PWA avec UpUp", Naël Ait Abdallah;
 - 14/12/2017 , "Content Choregraphy" Glenn Carroy
 - 15/12/2017 , "Web documentaire babel", Dervaux Jonathan
+- 20/12/2017 , "Kevin Mitnick", Peter Jordan;
