@@ -92,3 +92,10 @@ Format à respecter:
 - Mercredi 03/01/2018 "*Sujet à définir*", __Votre Nom__
 - Jeudi 04/01/2018 "*Sujet à définir*", __Votre Nom__
 - vendredi 05/01/2018 "*Sujet à définir*", __Votre Nom__
+
+- Lundi 08/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mardi 09/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mercredi 10/01/2018 "*Qu'est-ce que la linguistique computationnelle?*", __Amandine Meeus__
+- Jeudi 11/01/2018 "*Sujet à définir*", __Votre Nom__
+- vendredi 12/01/2018 "*Sujet à définir*", __Votre Nom__
+
