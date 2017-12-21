@@ -29,3 +29,4 @@ Format à respecter:
 - 14/12/2017 , "Content Choregraphy" Glenn Carroy
 - 15/12/2017 , "Web documentaire babel", Dervaux Jonathan
 - 20/12/2017 , "Kevin Mitnick", Peter Jordan;
+- 21/12/2017 , "Les couleurs", Denbroeder Jean Luc
