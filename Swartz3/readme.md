@@ -35,36 +35,15 @@ Via le terminal :
 1. Mets à jour le repository sur le serveur de Github:  `git push`
 
 
-## Besoin d'un sujet?
-
-Voici quelques suggestions:  
-- les Gradients en CSS  
-- utiliser des générateurs de code  
-- ... 
-
-## Suis les comptes twitter suivants:
-- [Smashing Magazine](https://twitter.com/smashingmag)
-- [The Practical Dev](https://twitter.com/ThePracticalDev)
-- [Envavo Tuts+ Code](https://twitter.com/TutsPlusCode)
-- [TEEKeasy](https://twitter.com/TEEK_easy)
-- [Sara Soueidan](https://twitter.com/SaraSoueidan)
-- [Stephanie Walter](https://twitter.com/WalterStephanie)
-- [Christian Heilmann](https://twitter.com/codepo8)
-- [Raphaël Goetter](https://twitter.com/goetter)
-- [Teddy](https://twitter.com/teddykishi)
-- [Alexandre](https://twitter.com/pixeline)
-- [Michaël Pitz](https://twitter.com/WebdevPitz)
-
-
 ## Sujets potentiels 
 
+- Les bibliothèques JavaScript 
 - jQuery
 - Vue.js
+- React.js
 - SVG
 - Flexbox
 - Les langages de programmation côté serveur 
-- React.js
-- Les bibliothèques JavaScript 
 - Les serveurs Web 
 - Les systèmes de gestion de contenu (CMS) 
 - Les systèmes d'exploitation 
@@ -78,6 +57,7 @@ Voici quelques suggestions:
 - Les micro-interactions pour améliorer l’UX 
 - Le material design
 - Robots.txt
+- .htaccess
 - Trouver des images gratuites et libres de droits
 - Sitemap
 - Format d’image pour le web
@@ -87,3 +67,15 @@ Voici quelques suggestions:
 - Form Validation 
 - ...
 
+## Suis les comptes twitter suivants :
+- [Smashing Magazine](https://twitter.com/smashingmag)
+- [The Practical Dev](https://twitter.com/ThePracticalDev)
+- [Envavo Tuts+ Code](https://twitter.com/TutsPlusCode)
+- [TEEKeasy](https://twitter.com/TEEK_easy)
+- [Sara Soueidan](https://twitter.com/SaraSoueidan)
+- [Stephanie Walter](https://twitter.com/WalterStephanie)
+- [Christian Heilmann](https://twitter.com/codepo8)
+- [Raphaël Goetter](https://twitter.com/goetter)
+- [Teddy](https://twitter.com/teddykishi)
+- [Alexandre](https://twitter.com/pixeline)
+- [Michaël Pitz](https://twitter.com/WebdevPitz)
