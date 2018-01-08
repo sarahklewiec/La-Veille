@@ -8,7 +8,7 @@ Format à respecter:
 ### Janvier
 
 - Lundi 08/01/2018 "*Sujet à définir*", __Votre Nom__
-- Mardi 09/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mardi 09/01/2018 "*MODULARIZE MODULARIZE MODULARIIIIIIIZE  !!!!!!*", __Thomas Geenen__
 - Mercredi 10/01/2018 "*Sujet à définir*", __Votre Nom__
 - Jeudi 11/01/2018 "*Sujet à définir*", __Votre Nom__
 - vendredi 12/01/2018 "*Sujet à définir*", __Votre Nom__
