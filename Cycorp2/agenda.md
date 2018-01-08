@@ -14,7 +14,7 @@ Format à respecter:
 - vendredi 12/01/2018 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 15/01/2018 "*Sujet à définir*", __Votre Nom__
-- Mardi 16/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mardi 16/01/2018 "*Sujet à définir*", __Elisa della Faille__
 - Mercredi 17/01/2018 "*Sujet à définir*", __Votre Nom__
 - Jeudi 18/01/2018 "*Sujet à définir*", __Votre Nom__
 - vendredi 19/01/2018 "*Sujet à définir*", __Votre Nom__
