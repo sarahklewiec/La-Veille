@@ -37,3 +37,24 @@ Format to respect:
 - Wednesday 20 December 2017:
 - Thursday 21 December 2017:
 - Friday 22 December 2017:
+
+## January
+- Monday 08 January:
+- Tuesday 09 January:
+- Wednesday 10 January:
+- Thursday 11 January:
+- Friday 12 January:
+- Monday 15 January:
+- Tuesday 16 January:
+- Wednesday 17 January: "TBC", __Laurent__
+- Thursday 18 January:
+- Friday 19 January:
+- Monday 22 January:
+- Tuesday 23 January:
+- Wednesday 24 January:
+- Thursday 25 January:
+- Friday 26 January:
+- Monday 29 January:
+- Tuesday 30 January:
+- Wednesday 31 January:
+
