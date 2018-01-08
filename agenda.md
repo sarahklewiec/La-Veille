@@ -10,5 +10,5 @@
 
 07/01/2018, Feedly, Jacqueline
 
-08/01/2018, Deployement Filezilla, Corentin Noirot
+08/01/2018, Déploiement Filezilla, Corentin Noirot
 
