@@ -29,6 +29,6 @@ Format à respecter:
 - 14/12/2017 , "Content Choregraphy" Glenn Carroy
 - 15/12/2017 , "Web documentaire babel", Dervaux Jonathan
 - 20/12/2017 , "Kevin Mitnick", Peter Jordan;
-- 21/12/2017 , "Les couleurs" (https://docs.google.com/presentation/d/e/2PACX-1vS_fHGMYaBMAp4WvlgrahzASjQYC1eW_yc8Ctc-xgGTg77bdyMlRfqlf79f5XlHLQOkq8ZRYPukqFUI/pub?start=false&loop=false&delayms=3000), Denbroeder Jean Luc
-- 08/01/2018 , "Feedly", Mickael Van Craenenbroeck
+- 21/12/2017 , "[Les couleurs](https://docs.google.com/presentation/d/e/2PACX-1vS_fHGMYaBMAp4WvlgrahzASjQYC1eW_yc8Ctc-xgGTg77bdyMlRfqlf79f5XlHLQOkq8ZRYPukqFUI/pub?start=false&loop=false&delayms=3000)", Denbroeder Jean Luc
+- 08/01/2018 , "Feedly", Jacqueline
 
