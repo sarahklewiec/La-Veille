@@ -32,6 +32,7 @@ Format à respecter:
 - 21/12/2017 , "[Les couleurs](https://docs.google.com/presentation/d/e/2PACX-1vS_fHGMYaBMAp4WvlgrahzASjQYC1eW_yc8Ctc-xgGTg77bdyMlRfqlf79f5XlHLQOkq8ZRYPukqFUI/pub?start=false&loop=false&delayms=3000)", Denbroeder Jean Luc
 - 08/01/2018 , "Feedly", Jacqueline Rwanyindo
 - 09/01/2018 , "Déploiement Filezilla", Corentin Noirot,
+- 10/01/2018 , "SSH (Secure Shell)", Courbe Olivier.
 - 12/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
 - 22/01/2018, "Smart et Projet Smart", Corentin Warin
 - 23/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
