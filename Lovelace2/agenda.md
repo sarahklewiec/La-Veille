@@ -4,46 +4,46 @@ Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
+	-lundi 08/01/2018, "nobody", is perfect ;
 
-- mercredi 29/11/2017, " Le svg animation technique css,javascript   ",  Stéphane Dethy ;
+	-mardi  09/01/2018, "Google Home", Bertrand ;
 
-- jeudi 30/11/2017, "Style à l'infini avec SASS SCSS :D    ", Kevin²    ;
+	-mercredi  10/01/2018, "", ;
 
-- vendredi 01/12/2017, "Secure shell, a glimpse into the server world!", Marvin LOUIS;
+	-jeudi  11/01/2018, "", ;
 
-- lundi 04/12/2017, "Ce que Gitkraken peut faire pour vous !", Nicolas Belpois;
+	-vendredi 12/01/2018, "", ;
 
-- mardi 05/12/2017,
+	-lundi  15/01/2018, "", ;
 
-- mercredi 06/12/2017,
+	-mardi  16/01/2018, "", ;
 
-- jeudi 07/12/2017, "Encapsuler une App avec Cordova", Axel Fiolle;  
+	-mercredi  17/01/2018, "", ;
 
-- vendredi 08/12/2017, "Que représente le Machine Learning ?", Gaëtan Ribonnet;
+	-jeudi  18/01/2018, "", ;
 
-- lundi 11/12/2017,gerer ses instances node avec pm2 et autres, AGJ  
+	-vendredi  19/01/2018, "", ;
 
-- mardi 12/12/2017,  
+	-lundi  22/01/2018, "", ;
 
-- mercredi 13/12/2017, 
+	-mardi  23/01/2018, "", ;
 
-- jeudi 14/12/2017,
+	-mercredi  24/01/2018, "", ;
 
-- vendredi 15/12/2017,  XYZ - De la pensée à l'outil - Vincent Nassaux
+	-jeudi  25/01/2018, "", ;
 
-- lundi 18/12/2017, "Asymmetric encryption"  , Antoine Gjeloshaj
+	-vendredi  26/01/2018, "", ;
 
-- mardi 19/12/2017, "The terminal, is it still scary?" , Marvin LOUIS;
+	-lundi  29/01/2018, "", ;
 
-- mercredi 20/12/2017,    "Demo day" , Mutwakil Mo.
+	-mardi  30/01/2018, "", ;
 
-- jeudi 21/12/2017,  "je ne sais pas encore", Ilias
 
-- vendredi 22/12/2017,"Le DDOS" Trabelsi mehdi
 
 
 ## Archive
 - jeudi 28/09/2017, "GitHub", Alex;
+
 - lundi 2/10/2017 "UX design", Axel fiolle
 
 - mardi 3/10/2017, "formation Gratuite",Nicolas Belpois;
@@ -124,3 +124,39 @@ Format à respecter:
 - lundi 27/11/2017, " Le testeur dans l'ombre du developpeur", Omar    ;
 
 - mardi 28/11/2017,"""";
+
+- mercredi 29/11/2017, " Le svg animation technique css,javascript   ",  Stéphane Dethy ;
+
+- jeudi 30/11/2017, "Style à l'infini avec SASS SCSS :D    ", Kevin²    ;
+
+- vendredi 01/12/2017, "Secure shell, a glimpse into the server world!", Marvin LOUIS;
+
+- lundi 04/12/2017, "Ce que Gitkraken peut faire pour vous !", Nicolas Belpois;
+
+- mardi 05/12/2017,
+
+- mercredi 06/12/2017,
+
+- jeudi 07/12/2017, "Encapsuler une App avec Cordova", Axel Fiolle;  
+
+- vendredi 08/12/2017, "Que représente le Machine Learning ?", Gaëtan Ribonnet;
+
+- lundi 11/12/2017,gerer ses instances node avec pm2 et autres, AGJ  
+
+- mardi 12/12/2017,  
+
+- mercredi 13/12/2017, 
+
+- jeudi 14/12/2017,
+
+- vendredi 15/12/2017,  XYZ - De la pensée à l'outil - Vincent Nassaux
+
+- lundi 18/12/2017, "Asymmetric encryption"  , Antoine Gjeloshaj
+
+- mardi 19/12/2017, "The terminal, is it still scary?" , Marvin LOUIS;
+
+- mercredi 20/12/2017,    "Demo day" , Mutwakil Mo.
+
+- jeudi 21/12/2017,  "je ne sais pas encore", Ilias
+
+- vendredi 22/12/2017,"Le DDOS" Trabelsi mehdi
