@@ -13,3 +13,11 @@
 08/01/2018, Déploiement Filezilla, Corentin Noirot
 
 09/01/2018, SSH, Courbe Olivier
+
+10/01/2018, Hackathon Equipe Graffiti, Corentin Warin
+
+22/01/2018, Smart et Projet Smart, Corentin Warin
+
+23/01/2018, Site Web Pour un Artiste et droit d'auteur, Corentin Warin
+
+
