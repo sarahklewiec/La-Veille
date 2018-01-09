@@ -16,7 +16,7 @@ Format à respecter:
 
 	-lundi  15/01/2018, "", ;
 
-	-mardi  16/01/2018, "Facturer vos prestations de webdev via SmartBE", Steve;
+	-mardi  16/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
 
 	-mercredi  17/01/2018, "", ;
 
