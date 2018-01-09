@@ -12,7 +12,7 @@ Format à respecter:
 
 	-jeudi  11/01/2018, "", ;
 
-	-vendredi 12/01/2018, "", ;
+	-vendredi 12/01/2018, "Electron", Caroline ;
 
 	-lundi  15/01/2018, "", ;
 
