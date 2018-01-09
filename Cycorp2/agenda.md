@@ -11,7 +11,7 @@ Format à respecter:
 - Mardi 09/01/2018 "*MODULARIZE MODULARIZE MODULARIIIIIIIZE  !!!!!!*", __Thomas Geenen__
 - Mercredi 10/01/2018 "*Sujet à définir*", __Votre Nom__
 - Jeudi 11/01/2018 "*Sujet à définir*", __Votre Nom__
-- vendredi 12/01/2018 "*Sujet à définir*", __Votre Nom__
+- vendredi 12/01/2018 "*KNACSS*", __Saritas Akkad__
 
 - Lundi 15/01/2018 "*Sujet à définir*", __Votre Nom__
 - Mardi 16/01/2018 "*Sujet à définir*", __Elisa della Faille__
