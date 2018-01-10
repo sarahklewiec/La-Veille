@@ -24,7 +24,7 @@ Format à respecter:
 
 	-vendredi  19/01/2018, "", ;
 
-	-lundi  22/01/2018, "", ;
+	-lundi  22/01/2018, "Gestalt theorie", Laureen; 
 
 	-mardi  23/01/2018, "", ;
 
