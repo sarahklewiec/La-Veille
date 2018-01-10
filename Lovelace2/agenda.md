@@ -8,7 +8,7 @@ Format à respecter:
 
 	-mardi  09/01/2018, "Google Home", Bertrand ;
 
-	-mercredi  10/01/2018, "", ;
+	-mercredi  10/01/2018, "Construire son site avec Materialize", Axelelel;
 
 	-jeudi  11/01/2018, "", ;
 
