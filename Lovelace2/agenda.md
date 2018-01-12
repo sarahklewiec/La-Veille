@@ -12,7 +12,7 @@ Format à respecter:
 
 	-jeudi  11/01/2018, "Construire son site avec Materialize", Axeloto;
 
-	-vendredi 12/01/2018, "Electron", Caroline ;
+	-vendredi 12/01/2018, "Open-source, breaking the ice", Marvin LOUIS ;
 
 	-lundi  15/01/2018, "", ;
 
