@@ -14,7 +14,7 @@ Format à respecter:
 
 	-vendredi 12/01/2018, "Open-source, breaking the ice", Marvin LOUIS ;
 
-	-lundi  15/01/2018, "", ;
+	-lundi  15/01/2018, "Déployer son site", Axelotolol Niveau 80 Élite;
 
 	-mardi  16/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
 
