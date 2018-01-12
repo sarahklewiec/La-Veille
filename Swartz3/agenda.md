@@ -33,6 +33,8 @@ Format à respecter:
 - 08/01/2018 , "Feedly", Jacqueline Rwanyindo
 - 09/01/2018 , "Déploiement Filezilla", Corentin Noirot,
 - 10/01/2018 , "SSH (Secure Shell)", Courbe Olivier.
-- 12/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
+- 12/01/2018, "Bestof.js.org", Hammouten Farid. 
+- 15/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
 - 22/01/2018, "Smart et Projet Smart", Corentin Warin
 - 23/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
+
