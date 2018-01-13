@@ -16,9 +16,9 @@ Format à respecter:
 
 	-lundi  15/01/2018, "Différentes méthode pour déployer son site", Axelotolol Niveau 80 Élite;
 
-	-mardi  16/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
+	-mardi  16/01/2018, "", ;
 
-	-mercredi  17/01/2018, "", ;
+	-mercredi  17/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
 
 	-jeudi  18/01/2018, "", ;
 
