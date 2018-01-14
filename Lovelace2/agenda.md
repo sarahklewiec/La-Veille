@@ -22,7 +22,7 @@ Format à respecter:
 
 	-jeudi  18/01/2018, "", ;
 
-	-vendredi  19/01/2018, "", ;
+	-vendredi  19/01/2018, "les outils et testeurs de dévelopement online",Stéphane ;
 
 	-lundi  22/01/2018, "Gestalt theorie", Laureen; 
 
