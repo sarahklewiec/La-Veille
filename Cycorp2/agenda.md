@@ -16,7 +16,8 @@ Format à respecter:
 - Lundi 15/01/2018 "*Sujet à définir*", __Votre Nom__
 - Mardi 16/01/2018 "*Sujet à définir*", __Votre Nom__
 - Mercredi 17/01/2018 "*Sujet à définir*", __Votre Nom__
-- Jeudi 18/01/2018 "*Sujet à définir*", __Votre Nom__
+- Jeudi 18/01/2018 "*
+good practices to put your website online*", __Geenen Thomas__
 - vendredi 19/01/2018 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 22/01/2018 "*Sujet à définir*", __Votre Nom__
