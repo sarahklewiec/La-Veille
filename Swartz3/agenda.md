@@ -27,17 +27,17 @@ Format à respecter:
 - 06/12/2017 , "Tweet Deck", Maxime Delchambre
 - 11/12/2017 , "Image Overlay", Olivier NSHIMIYUMUKIZA.
 - 12/12/2017 , "Animation Sprite CSS" Guillaume de Wolf
-- 13/12/2017 , "PWA avec UpUp", Naël Ait Abdallah;
-- 14/12/2017 , "Content Choregraphy" Glenn Carroy
-- 15/12/2017 , "Web documentaire babel", Dervaux Jonathan
-- 20/12/2017 , "Kevin Mitnick", Peter Jordan;
+- 13/12/2017 , "[PWA avec UpUp](https://docs.google.com/presentation/d/e/2PACX-1vT0h4AzNjDymWVFWwjDIjzFrGpYY6Xlsy2-5B6cEfpNZKCS-20m_aE9V7dcIPjFSxGlNtearsyUI_sB/pub?start=false&loop=false&delayms=3000#slide=id.g2c236503c0_0_62)", Naël Ait Abdallah;
+- 14/12/2017 , "[Content Choregraphy](https://docs.google.com/presentation/d/1SuC4WUeDe3LiICCv8MSmaiXvySmaMXUtfXnpwZMM9ug/edit?usp=sharing)" Glenn Carroy
+- 15/12/2017 , "[Web documentaire babel](https://github.com/DervauxJonathan/babel)", Dervaux Jonathan
+- 20/12/2017 , "[Kevin Mitnick]https://docs.google.com/presentation/d/1T9dOy_EcCf69BxLawNspDSHAB8Y8ZswLEeA-mkDkVpg/edit#slide=id.g2bc0f9ed64_0_232)", Peter Jordan;
 - 21/12/2017 , "[Les couleurs](https://docs.google.com/presentation/d/e/2PACX-1vS_fHGMYaBMAp4WvlgrahzASjQYC1eW_yc8Ctc-xgGTg77bdyMlRfqlf79f5XlHLQOkq8ZRYPukqFUI/pub?start=false&loop=false&delayms=3000)", Denbroeder Jean Luc
 
 ### Janvier
 - 08/01/2018 , "Feedly", Jacqueline Rwanyindo
 - 09/01/2018 , "Déploiement Filezilla", Corentin Noirot,
-- 10/01/2018 , "SSH (Secure Shell)", Courbe Olivier.
-- 12/01/2018, "Bestof.js.org", Hammouten Farid. 
+- 10/01/2018 , "[SSH (Secure Shell)](https://docs.google.com/presentation/d/1q-8Op4PeBkb7-3K0R3cCc63cs8vuSVsiG5_Lz3sFQbI/edit#slide=id.p)", Courbe Olivier.
+- 12/01/2018, "[Bestof.js.org](https://bestof.js.org/)", Hammouten Farid. 
 - 15/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
 - 16/01/2018
 - 17/01/2018
