@@ -35,6 +35,7 @@ Format à respecter:
 - 10/01/2018 , "SSH (Secure Shell)", Courbe Olivier.
 - 12/01/2018, "Bestof.js.org", Hammouten Farid. 
 - 15/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
+- 19/01/2018, "Robots.txt", Hippolyte Malgaud
 - 22/01/2018, "Smart et Projet Smart", Corentin Warin
 - 23/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
 
