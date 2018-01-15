@@ -49,7 +49,7 @@ Format to respect:
 - Wednesday 17 January: "Progressive Web Apps", __Laurent__
 - Thursday 18 January:
 - Friday 19 January:
-- Monday 22 January:
+- Monday 22 January: "TBC", __Flaviano Mucedda__
 - Tuesday 23 January:
 - Wednesday 24 January:
 - Thursday 25 January:
