@@ -46,7 +46,7 @@ Format to respect:
 - Friday 12 January:
 - Monday 15 January:
 - Tuesday 16 January:
-- Wednesday 17 January: "TBC", __Laurent__
+- Wednesday 17 January: "Progressive Web Apps", __Laurent__
 - Thursday 18 January:
 - Friday 19 January:
 - Monday 22 January:
