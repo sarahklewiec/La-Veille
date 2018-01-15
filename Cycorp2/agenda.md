@@ -11,14 +11,14 @@ Format à respecter:
 - Mardi 09/01/2018 "*MODULARIZE MODULARIZE MODULARIIIIIIIZE  !!!!!!*", __Thomas Geenen__
 - Mercredi 10/01/2018 "*Sujet à définir*", __Votre Nom__
 - Jeudi 11/01/2018 "*Sujet à définir*", __Votre Nom__
-- vendredi 12/01/2018 "*Sujet à définir*", __Votre Nom__
+- vendredi 12/01/2018 "*KNACSS*", __Saritas Akkad__
 
 - Lundi 15/01/2018 "*Sujet à définir*", __Votre Nom__
-- Mardi 16/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mardi 16/01/2018 "*CES 2018 - BEST OF*", __Elisa della Faille__
 - Mercredi 17/01/2018 "*Sujet à définir*", __Votre Nom__
 - Jeudi 18/01/2018 "*
 good practices to put your website online*", __Geenen Thomas__
-- vendredi 19/01/2018 "*Sujet à définir*", __Votre Nom__
+- - vendredi 19/01/2018 "*Faille sur les systeme*", __Michaël Bavier__
 
 - Lundi 22/01/2018 "*Sujet à définir*", __Votre Nom__
 - Mardi 23/01/2018 "*Sujet à définir*", __Votre Nom__
