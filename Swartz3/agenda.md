@@ -5,7 +5,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Swartz 3
 
-
+### Novembre
 - 07/11/2017 , "La GitHub Attitude" , Alexandre Plennevaux;
 - 13/11/2017 , "Aaron Swartz" , Guillaume de Wolf;
 - 16/11/2017 , "Balsamique" , Nicolas Hacala;
@@ -19,6 +19,8 @@ Format à respecter:
 - 28/11/2017 , "Initiation au JavaScript" , Mickael Van Craenenbroeck;
 - 29/11/2017 , "Live coding d'une nav Flexbox" , Corentin Noirot
 - 30/11/2017 , "Grid-template-area", Nicolas Hacala
+
+### Décembre
 - 01/12/2017 , "Animation CSS" , Guillaume de Wolf
 - 04/12/2017 , "Sass", Marina Shvanova
 - 05/12/2017 , "La Veille de Noël", Kateryna Grygorko --> Brainstorming : quel thème ? Quel plan d'attaque ?
@@ -30,12 +32,19 @@ Format à respecter:
 - 15/12/2017 , "Web documentaire babel", Dervaux Jonathan
 - 20/12/2017 , "Kevin Mitnick", Peter Jordan;
 - 21/12/2017 , "[Les couleurs](https://docs.google.com/presentation/d/e/2PACX-1vS_fHGMYaBMAp4WvlgrahzASjQYC1eW_yc8Ctc-xgGTg77bdyMlRfqlf79f5XlHLQOkq8ZRYPukqFUI/pub?start=false&loop=false&delayms=3000)", Denbroeder Jean Luc
+
+### Janvier
 - 08/01/2018 , "Feedly", Jacqueline Rwanyindo
 - 09/01/2018 , "Déploiement Filezilla", Corentin Noirot,
 - 10/01/2018 , "SSH (Secure Shell)", Courbe Olivier.
 - 12/01/2018, "Bestof.js.org", Hammouten Farid. 
 - 15/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
+- 16/01/2018
+- 17/01/2018
+- 18/01/2018
 - 19/01/2018, "Robots.txt", Hippolyte Malgaud
 - 22/01/2018, "Smart et Projet Smart", Corentin Warin
 - 23/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
-
+- 24/01/2018
+- 25/01/2018
+- 26/01/2018
