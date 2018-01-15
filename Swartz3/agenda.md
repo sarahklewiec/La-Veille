@@ -30,7 +30,7 @@ Format à respecter:
 - 13/12/2017 , "[PWA avec UpUp](https://docs.google.com/presentation/d/e/2PACX-1vT0h4AzNjDymWVFWwjDIjzFrGpYY6Xlsy2-5B6cEfpNZKCS-20m_aE9V7dcIPjFSxGlNtearsyUI_sB/pub?start=false&loop=false&delayms=3000#slide=id.g2c236503c0_0_62)", Naël Ait Abdallah;
 - 14/12/2017 , "[Content Choregraphy](https://docs.google.com/presentation/d/1SuC4WUeDe3LiICCv8MSmaiXvySmaMXUtfXnpwZMM9ug/edit?usp=sharing)" Glenn Carroy
 - 15/12/2017 , "[Web documentaire babel](https://github.com/DervauxJonathan/babel)", Dervaux Jonathan
-- 20/12/2017 , "[Kevin Mitnick]https://docs.google.com/presentation/d/1T9dOy_EcCf69BxLawNspDSHAB8Y8ZswLEeA-mkDkVpg/edit#slide=id.g2bc0f9ed64_0_232)", Peter Jordan;
+- 20/12/2017 , "[Kevin Mitnick](https://docs.google.com/presentation/d/1T9dOy_EcCf69BxLawNspDSHAB8Y8ZswLEeA-mkDkVpg/edit#slide=id.g2bc0f9ed64_0_232)", Peter Jordan;
 - 21/12/2017 , "[Les couleurs](https://docs.google.com/presentation/d/e/2PACX-1vS_fHGMYaBMAp4WvlgrahzASjQYC1eW_yc8Ctc-xgGTg77bdyMlRfqlf79f5XlHLQOkq8ZRYPukqFUI/pub?start=false&loop=false&delayms=3000)", Denbroeder Jean Luc
 
 ### Janvier
