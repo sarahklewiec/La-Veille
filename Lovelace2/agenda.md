@@ -16,7 +16,7 @@ Format à respecter:
 
 	-lundi  15/01/2018, "Différentes méthode pour déployer son site", Axelotolol Niveau 80 Élite;
 
-	-mardi  16/01/2018, "", ;
+	-mardi  16/01/2018, "Framework7",Antoine Gjeloshaj ;
 
 	-mercredi  17/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
 
