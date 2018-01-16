@@ -39,7 +39,7 @@ Format à respecter:
 - 10/01/2018 , "[SSH (Secure Shell)](https://docs.google.com/presentation/d/1q-8Op4PeBkb7-3K0R3cCc63cs8vuSVsiG5_Lz3sFQbI/edit#slide=id.p)", Courbe Olivier.
 - 12/01/2018, "[Bestof.js.org](https://bestof.js.org/)", Hammouten Farid. 
 - 15/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
-- 16/01/2018
+- 16/01/2018, "Medium.com", Corentin Warin
 - 17/01/2018
 - 18/01/2018
 - 19/01/2018, "Robots.txt", Hippolyte Malgaud
