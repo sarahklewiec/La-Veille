@@ -18,9 +18,9 @@ Format à respecter:
 
 	-mardi  16/01/2018, "Framework7",Antoine Gjeloshaj ;
 
-	-mercredi  17/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
+	-mercredi  17/01/2018, "", ;
 
-	-jeudi  18/01/2018, "", ;
+	-jeudi  18/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
 
 	-vendredi  19/01/2018, "les outils et testeurs de dévelopement online",Stéphane ;
 
