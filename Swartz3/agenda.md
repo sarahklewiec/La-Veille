@@ -41,7 +41,7 @@ Format à respecter:
 - 15/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
 - 16/01/2018, "Medium.com", Corentin Warin
 - 17/01/2018
-- 18/01/2018
+- 18/01/2018, "IFTTT", Bernard Jacob	
 - 19/01/2018, "Robots.txt", Hippolyte Malgaud
 - 22/01/2018, "Smart et Projet Smart", Corentin Warin
 - 23/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
