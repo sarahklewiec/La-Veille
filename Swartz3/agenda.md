@@ -45,6 +45,6 @@ Format à respecter:
 - 19/01/2018, "Robots.txt", Hippolyte Malgaud
 - 22/01/2018, "Smart et Projet Smart", Corentin Warin
 - 23/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
-- 24/01/2018
+- 24/01/2018, "Initiation à AJAX", Nicolas Jamar
 - 25/01/2018
 - 26/01/2018
