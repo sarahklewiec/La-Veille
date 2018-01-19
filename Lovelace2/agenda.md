@@ -26,17 +26,17 @@ Format à respecter:
 
 	-lundi  22/01/2018, "Gestalt theorie", Laureen; 
 
-	-mardi  23/01/2018, "", ;
+	-mardi  23/01/2018, "2BE3", Syl;
 
-	-mercredi  24/01/2018, "", ;
+	-mercredi  24/01/2018, "La domotique", Omar;
 
-	-jeudi  25/01/2018, "", ;
+	-jeudi  25/01/2018, "Lovel'hack story", Thomas Point;
 
-	-vendredi  26/01/2018, "", ;
+	-vendredi  26/01/2018, "Knacss", Nico Van Roost;
 
-	-lundi  29/01/2018, "", ;
+	-lundi  29/01/2018, "Las animations en CSS", Weichuan;
 
-	-mardi  30/01/2018, "", ;
+	-mardi  30/01/2018, "Y sait pas mais y trouvera ce we", Gaetan Ribonnet;
 
 
 
