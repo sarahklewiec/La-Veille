@@ -43,9 +43,9 @@ Format à respecter:
 - 17/01/2018
 - 18/01/2018, "IFTTT", Bernard Jacob	
 - 19/01/2018, "Robots.txt", Hippolyte Malgaud
-- 22/01/2018, "Smart et Projet Smart", Corentin Warin
-- 23/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
+- 22/01/2018, 
+- 23/01/2018, "Smart et Projet Smart", Corentin Warin
 - 24/01/2018, "utilisation d'une API", Nicolas Jamar
-- 25/01/2018,
+- 25/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
 - 26/01/2018,
 - 29/01/2018, "initiation à AJAX", Nicolas Jamar
