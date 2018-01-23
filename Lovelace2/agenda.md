@@ -38,6 +38,26 @@ Format à respecter:
 
 	-mardi  30/01/2018, "Y sait pas mais y trouvera ce we", Gaetan Ribonnet;
 
+	-mercredi 31/01/2018,"", ;
+
+	-jeudi  01/02/2018, "Gestalt theorie", Laureen; 
+
+	-vendredi  02/02/2018,"", ;
+
+	-lundi  03/02/2018,"", ;
+
+	-mardi  04/02/2018,"", ;
+
+	-mercredi  05/02/2018,"", ;
+
+	-jeudi  06/02/2018,"", ;
+
+	-vendredi  07/02/2018,"", ;
+
+	-lundi  08/02/2018,"", ;
+
+	-mardi  09/02/2018,"", ;
+
 
 
 
