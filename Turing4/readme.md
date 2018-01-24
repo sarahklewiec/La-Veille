@@ -49,7 +49,7 @@ Voici quelques suggestions:
 - [Christian Heilmann](https://twitter.com/codepo8)
 - [Teddy Coach de central](https://twitter.com/teddykishi)
 - [Alexandre Coach de Central](https://twitter.com/pixeline)
-- [Ludovic] (https://twitter.com/LudovicPatho)
+- [Ludovic](https://twitter.com/LudovicPatho)
 
 
 ## Sujets potentiels 
