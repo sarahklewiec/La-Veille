@@ -23,7 +23,7 @@ good practices to put your website online*", __Geenen Thomas__
 - Lundi 22/01/2018 "*Code once, deploy everywhere !*", __Cali Armut__
 - Mardi 23/01/2018 "*Sujet à définir*", __Votre Nom__
 - Mercredi 24/01/2018 "* le statut d'independant*", __Daiel de Vos__
-- Jeudi 25/01/2018 "*Sujet à définir*", __Votre Nom__
+- Jeudi 25/01/2018 "*Sujet à définir*", __Pierre Levie__
 - vendredi 26/01/2018 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 29/01/2018 "*Sujet à définir*", __Votre Nom__
