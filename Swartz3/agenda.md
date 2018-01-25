@@ -53,7 +53,7 @@ Format à respecter:
 - 31/01/2018
 
 ### Février
-- 01/02/2018
+- 01/02/2018, Workshop Blockchain Lovelace & Swartz
 - 02/02/2018
 - 05/02/2018
 - 06/02/2018
