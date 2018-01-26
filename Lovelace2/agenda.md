@@ -42,7 +42,7 @@ Format à respecter:
 
 	-jeudi  01/02/2018, "Gestalt theorie", Laureen; 
 
-	-vendredi  02/02/2018,"", ;
+	-vendredi  02/02/2018,"Docker, a world of containers", Marvin Louis;
 
 	-lundi  03/02/2018,"", ;
 
