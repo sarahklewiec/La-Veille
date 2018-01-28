@@ -39,12 +39,24 @@ Format à respecter:
 - 10/01/2018 , "[SSH (Secure Shell)](https://docs.google.com/presentation/d/1q-8Op4PeBkb7-3K0R3cCc63cs8vuSVsiG5_Lz3sFQbI/edit#slide=id.p)", Courbe Olivier.
 - 12/01/2018, "[Bestof.js.org](https://bestof.js.org/)", Hammouten Farid. 
 - 15/01/2018, "Hackathon Equipe Graffiti", Corentin Warin
-- 16/01/2018
+- 16/01/2018, "Medium.com", Corentin Warin
 - 17/01/2018
-- 18/01/2018
+- 18/01/2018, "IFTTT", Bernard Jacob	
 - 19/01/2018, "Robots.txt", Hippolyte Malgaud
-- 22/01/2018, "Smart et Projet Smart", Corentin Warin
-- 23/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
-- 24/01/2018
-- 25/01/2018
-- 26/01/2018
+- 22/01/2018, 
+- 23/01/2018, "Smart et Projet Smart", Corentin Warin
+- 24/01/2018, "utilisation d'une API", Nicolas Jamar
+- 25/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
+- 26/01/2018,
+- 29/01/2018, "initiation à AJAX", Nicolas Jamar
+- 30/01/2018
+- 31/01/2018
+
+### Février
+- 01/02/2018, Workshop Blockchain Lovelace & Swartz
+- 02/02/2018
+- 05/02/2018
+- 06/02/2018
+- 07/02/2018
+- 08/02/2018
+- 09/02/2018

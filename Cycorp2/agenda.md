@@ -25,16 +25,16 @@ Format à respecter:
 - Mercredi 17/01/2018 "*Sujet à définir*", __Votre Nom__
 - Jeudi 18/01/2018 "*
 good practices to put your website online*", __Geenen Thomas__
-- - vendredi 19/01/2018 "*Faille sur les systeme*", __Michaël Bavier__
+- vendredi 19/01/2018 "*Faille sur les systeme*", __Michaël Bavier__
 
-- Lundi 22/01/2018 "*Sujet à définir*", __Votre Nom__
+- Lundi 22/01/2018 "*Code once, deploy everywhere !*", __Cali Armut__
 - Mardi 23/01/2018 "*Sujet à définir*", __Votre Nom__
-- Mercredi 24/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mercredi 24/01/2018 "* le statut d'independant*", __Daiel de Vos__
 - Jeudi 25/01/2018 "*Sujet à définir*", __Votre Nom__
 - vendredi 26/01/2018 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 29/01/2018 "*Sujet à définir*", __Votre Nom__
-- Mardi 30/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mardi 30/01/2018 "*Grilles CSS (CSS-Grid-layout) 2018 Frameworksr*", __Saritas Akkad__
 - Mercredi 31/01/2018 "*Sujet à définir*", __Votre Nom__
 
 ### Decembre
@@ -44,7 +44,7 @@ good practices to put your website online*", __Geenen Thomas__
 - Lundi 04/12/2017 "*Ionic Framework*", __Daniel De Vos__
 - Mardi 05/12/2017 "*Sujet à définir*", __Votre Nom__
 - Mercredi 06/12/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
-- Jeudi 07/12/2017 "*Manipuler le DOM*", __Cali__
+- Jeudi 07/12/2017 "*Manipuler le DOM*", __Cali Armut__
 - vendredi 08/12/2017 "*WORDPRESS BABY*", __Aldebaran Desombergh__
 
 - Lundi 11/12/2017 "*Cryptoparty*", __Saadia Sahraoui Brahim__

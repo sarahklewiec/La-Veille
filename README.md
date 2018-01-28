@@ -7,6 +7,8 @@ La Veille technologique à Becode, journalière et collective.
 - [Veille de becode Lovelace (promo 02)](Lovelace2)
 - [Veille de becode Swartz (promo 03)](Swartz3)
 - [Veille de becode Hamilton (promo 03)](Hamilton3)
+- [Veille de becode Turing (promo 04)](Turing4)
+
 
 ## Comment faire sa veille ?
 
