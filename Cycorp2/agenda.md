@@ -27,7 +27,7 @@ good practices to put your website online*", __Geenen Thomas__
 - vendredi 26/01/2018 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 29/01/2018 "*Sujet à définir*", __Votre Nom__
-- Mardi 30/01/2018 "*Grilles CSS (CSS Grid) 2018 Frameworksr*", __Saritas Akkad__
+- Mardi 30/01/2018 "*Grilles CSS (CSS-Grid-layout) 2018 Frameworksr*", __Saritas Akkad__
 - Mercredi 31/01/2018 "*Sujet à définir*", __Votre Nom__
 
 ### Decembre
