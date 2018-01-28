@@ -47,7 +47,7 @@ Format à respecter:
 - 23/01/2018, "Smart et Projet Smart", Corentin Warin
 - 24/01/2018, "utilisation d'une API", Nicolas Jamar
 - 25/01/2018, "Site Web Pour un Artiste et droit d'auteur", Corentin Warin
-- 26/01/2018,
+- 26/01/2018, "[Trello](https://trello.com) et autres kanban", Emily
 - 29/01/2018, "initiation à AJAX", Nicolas Jamar
 - 30/01/2018
 - 31/01/2018
