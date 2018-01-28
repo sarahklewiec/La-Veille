@@ -5,6 +5,13 @@ Format à respecter:
 
 ## L'agenda des veilles à Cycorp 2
 
+### Février
+
+- Jeudi 01/02/2018 "*Sujet à définir*", __Votre Nom__
+- Vendredi 02/02/2018 "*L'importance des réseaux sociaux dans notre domaine*", __Thomas Geenen__
+
+
+
 ### Janvier
 
 - Lundi 08/01/2018 "*Sujet à définir*", __Votre Nom__
