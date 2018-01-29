@@ -1,4 +1,4 @@
-﻿# Veille: ordre de passage à Lovelace 2
+# Veille: ordre de passage à Lovelace 2
 
 Format à respecter:   
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
@@ -8,35 +8,55 @@ Format à respecter:
 
 	-mardi  09/01/2018, "Google Home", Bertrand ;
 
-	-mercredi  10/01/2018, "", ;
+	-mercredi  10/01/2018, 
 
-	-jeudi  11/01/2018, "", ;
+	-jeudi  11/01/2018, "Construire son site avec Materialize", Axeloto;
 
-	-vendredi 12/01/2018, "", ;
+	-vendredi 12/01/2018, "Open-source, breaking the ice", Marvin LOUIS ;
 
-	-lundi  15/01/2018, "", ;
+	-lundi  15/01/2018, "Différentes méthode pour déployer son site", Axelotolol Niveau 80 Élite;
 
-	-mardi  16/01/2018, "", ;
+	-mardi  16/01/2018, "Framework7",Antoine Gjeloshaj ;
 
 	-mercredi  17/01/2018, "", ;
 
-	-jeudi  18/01/2018, "", ;
+	-jeudi  18/01/2018, "Facturez vos prestations de webdev via SmartBE", Steve;
 
-	-vendredi  19/01/2018, "", ;
+	-vendredi  19/01/2018, "les outils et testeurs de dévelopement online",Stéphane ;
 
-	-lundi  22/01/2018, "", ;
+	-lundi  22/01/2018, "Gestalt theorie", Laureen; 
 
-	-mardi  23/01/2018, "", ;
+	-mardi  23/01/2018, "2BE3", Syl;
 
-	-mercredi  24/01/2018, "", ;
+	-mercredi  24/01/2018, "La domotique", Omar;
 
-	-jeudi  25/01/2018, "", ;
+	-jeudi  25/01/2018, "Lovel'hack story", Thomas Point;
 
-	-vendredi  26/01/2018, "", ;
+	-vendredi  26/01/2018, "Knacss", Nico Van Roost;
 
-	-lundi  29/01/2018, "", ;
+	-lundi  29/01/2018, "Las animations en CSS", Weichuan;
 
-	-mardi  30/01/2018, "", ;
+	-mardi  30/01/2018, "Y sait pas mais y trouvera ce we", Gaetan Ribonnet;
+
+	-mercredi 31/01/2018,"", ;
+
+	-jeudi  01/02/2018, "Gestalt theorie", Laureen; 
+
+	-vendredi  02/02/2018,"Docker, a world of containers", Marvin Louis;
+
+	-lundi  03/02/2018,"", ;
+
+	-mardi  04/02/2018,"", ;
+
+	-mercredi  05/02/2018,"", ;
+
+	-jeudi  06/02/2018,"", ;
+
+	-vendredi  07/02/2018,"", ;
+
+	-lundi  08/02/2018,"", ;
+
+	-mardi  09/02/2018,"", ;
 
 
 

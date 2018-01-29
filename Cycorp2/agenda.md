@@ -5,6 +5,13 @@ Format à respecter:
 
 ## L'agenda des veilles à Cycorp 2
 
+### Février
+
+- Jeudi 01/02/2018 "*Sujet à définir*", __Votre Nom__
+- Vendredi 02/02/2018 "*L'importance des réseaux sociaux dans notre domaine*", __Thomas Geenen__
+
+
+
 ### Janvier
 
 - Lundi 08/01/2018 "*Sujet à définir*", __Votre Nom__
@@ -14,19 +21,20 @@ Format à respecter:
 - vendredi 12/01/2018 "*KNACSS*", __Saritas Akkad__
 
 - Lundi 15/01/2018 "*Sujet à définir*", __Votre Nom__
-- Mardi 16/01/2018 "*Sujet à définir*", __Elisa della Faille__
+- Mardi 16/01/2018 "*CES 2018 - BEST OF*", __Elisa della Faille__
 - Mercredi 17/01/2018 "*Sujet à définir*", __Votre Nom__
-- Jeudi 18/01/2018 "*Sujet à définir*", __Votre Nom__
-- vendredi 19/01/2018 "*Sujet à définir*", __Votre Nom__
+- Jeudi 18/01/2018 "*
+good practices to put your website online*", __Geenen Thomas__
+- vendredi 19/01/2018 "*Faille sur les systeme*", __Michaël Bavier__
 
-- Lundi 22/01/2018 "*Sujet à définir*", __Votre Nom__
+- Lundi 22/01/2018 "*Code once, deploy everywhere !*", __Cali Armut__
 - Mardi 23/01/2018 "*Sujet à définir*", __Votre Nom__
-- Mercredi 24/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mercredi 24/01/2018 "* le statut d'independant*", __Daiel de Vos__
 - Jeudi 25/01/2018 "*Sujet à définir*", __Votre Nom__
 - vendredi 26/01/2018 "*Sujet à définir*", __Votre Nom__
 
 - Lundi 29/01/2018 "*Sujet à définir*", __Votre Nom__
-- Mardi 30/01/2018 "*Sujet à définir*", __Votre Nom__
+- Mardi 30/01/2018 "*Grilles CSS (CSS-Grid-layout) 2018 Frameworksr*", __Saritas Akkad__
 - Mercredi 31/01/2018 "*Sujet à définir*", __Votre Nom__
 
 ### Decembre
@@ -36,7 +44,7 @@ Format à respecter:
 - Lundi 04/12/2017 "*Ionic Framework*", __Daniel De Vos__
 - Mardi 05/12/2017 "*Sujet à définir*", __Votre Nom__
 - Mercredi 06/12/2017 "*Le futur de l'Intelligence Artificielle*", __Saadia Sahraoui Brahim__
-- Jeudi 07/12/2017 "*Manipuler le DOM*", __Cali__
+- Jeudi 07/12/2017 "*Manipuler le DOM*", __Cali Armut__
 - vendredi 08/12/2017 "*WORDPRESS BABY*", __Aldebaran Desombergh__
 
 - Lundi 11/12/2017 "*Cryptoparty*", __Saadia Sahraoui Brahim__
